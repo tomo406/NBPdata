@@ -1,0 +1,253 @@
+start_node;end_node;type
+King Robert I Baratheon;Grand Maester Pycelle;sworn loyalty
+King Robert I Baratheon;Lord Petyr Baelish, Littlefinger;sworn loyalty
+King Robert I Baratheon;Ser Barristan Selmy;sworn loyalty
+King Robert I Baratheon;Varys, The Spider;sworn loyalty
+King Robert I Baratheon;Lord Lancel Lannister;squire
+King Robert I Baratheon;Tyrek Lannister;squire
+Lord Eddard Stark;Prince Theon Greyjoy;ward
+Lord Eddard Stark;Maester Luwin;sworn loyalty
+Lord Eddard Stark;Vayon Poole;sworn loyalty
+Lord Eddard Stark;Jory Cassel;sworn loyalty
+Jory Cassel;Desmond;sworn loyalty
+Jory Cassel;Hallis Mollen;sworn loyalty
+Jory Cassel;Jacks;sworn loyalty
+Jory Cassel;Porther;sworn loyalty
+Jory Cassel;Quent;sworn loyalty
+Jory Cassel;Alyn, Guard at Winterfell;sworn loyalty
+Jory Cassel;Cayn;sworn loyalty
+Jory Cassel;Wyl;sworn loyalty
+Lord Eddard Stark;Ser Rodrik Cassel;sworn loyalty
+Lord Eddard Stark;Hullen;sworn loyalty
+Lord Eddard Stark;Farlen, the kennelmaster;sworn loyalty
+Lord Eddard Stark;Ser Helman Tallhart;sworn loyalty
+Lord Eddard Stark;Lord Wyman Manderly;sworn loyalty
+Lord Eddard Stark;Lady Maege Mormont;sworn loyalty
+Lord Eddard Stark;Master Galbart Glover;sworn loyalty
+Lord Eddard Stark;Lord Roose Bolton;sworn loyalty
+Lord Eddard Stark;Lord Rickard Karstark;sworn loyalty
+Lord Eddard Stark;Robett Glover;sworn loyalty
+Lord Eddard Stark;Lord Jon Umber, Greatjon;sworn loyalty
+Lord Tywin Lannister;Lord Leo Lefford;sworn loyalty
+Lord Tywin Lannister;Ser Addam Marbrand;sworn loyalty
+Lord Tywin Lannister;Ser Gregor Clegane, The Mountain that Rides;sworn loyalty
+Lord Tywin Lannister;Ser Harys Swyft;sworn loyalty
+Lord Tywin Lannister;Lord Andros Brax;sworn loyalty
+Lord Tywin Lannister;Ser Forley Prester;sworn loyalty
+Lord Tywin Lannister;Vargo Hoat;sworn loyalty
+Lord Tywin Lannister;Ser Amory Lorch;sworn loyalty
+Lord Jon Arryn;Maester Colemon;sworn loyalty
+Lord Jon Arryn;Ser Vardis Egen;sworn loyalty
+Lord Jon Arryn;Ser Hugh, Of the Vale;sworn loyalty
+Lord Jon Arryn;Ser Brynden Tully, Blackfish;sworn loyalty
+Lord Jon Arryn;Lord Nestor Royce;sworn loyalty
+Lord Jon Arryn;Ser Lyn Corbray;sworn loyalty
+Lord Jon Arryn;Lord Eon Hunter;sworn loyalty
+Lord Jon Arryn;Lady Anya Waynwood;sworn loyalty
+Ser Lyn Corbray;Ser Mychel Redfort;squire
+Lady Lysa Tully/Arryn, Baelish;Maester Colemon;sworn loyalty
+Lady Lysa Tully/Arryn, Baelish;Ser Marwyn Belmore;sworn loyalty
+Lady Lysa Tully/Arryn, Baelish;Lord Yohn Royce, Bronze Yohn;sworn loyalty
+Lady Lysa Tully/Arryn, Baelish;Ser Vardis Egen;sworn loyalty
+Lady Lysa Tully/Arryn, Baelish;Ser Brynden Tully, Blackfish;sworn loyalty
+Lady Lysa Tully/Arryn, Baelish;Lord Nestor Royce;sworn loyalty
+Lady Lysa Tully/Arryn, Baelish;Ser Lyn Corbray;sworn loyalty
+Lady Lysa Tully/Arryn, Baelish;Lord Eon Hunter;sworn loyalty
+Lady Lysa Tully/Arryn, Baelish;Lady Anya Waynwood;sworn loyalty
+Lord Hoster Tully;Maester Vyman;sworn loyalty
+Lord Hoster Tully;Ser Desmond Grell;sworn loyalty
+Lord Hoster Tully;Ser Robin Ryger;sworn loyalty
+Ser Robin Ryger;Delp;sworn loyalty
+Ser Robin Ryger;Lew, Long Lew;sworn loyalty
+Ser Robin Ryger;Elwood;sworn loyalty
+Lord Hoster Tully;Utherydes Wayn;sworn loyalty
+Lord Hoster Tully;Lord Jason Mallister;sworn loyalty
+Lord Hoster Tully;Lady Shella Whent;sworn loyalty
+Lord Hoster Tully;Lord Walder Frey, The Late Lord Frey;sworn loyalty
+Lord Hoster Tully;Lord Jonos Bracken;sworn loyalty
+Lord Hoster Tully;Lord Tytos Blackwood;sworn loyalty
+Lord Hoster Tully;Lord Raymun Darry;sworn loyalty
+Lord Hoster Tully;Lord Karyl Vance;sworn loyalty
+Lord Hoster Tully;Ser Marq Piper;sworn loyalty
+Lady Shella Whent;Ser Willis Wode, the Harrenhal man at Inn of the Crossroad;knight in service
+Lord Mace Tyrell;Maester Lomys;sworn loyalty
+Lord Mace Tyrell;Ser Vortimer Crane;sworn loyalty
+Lord Mace Tyrell;Igon Vyrwel;sworn loyalty
+Lord Mace Tyrell;Lord Paxter Redwyne;sworn loyalty
+Lord Mace Tyrell;Lord Randyll Tarly;sworn loyalty
+Lord Mace Tyrell;Lord Mathis Rowan;sworn loyalty
+Lord Mace Tyrell;Lady Arwyn Oakheart;sworn loyalty
+Lord Mace Tyrell;Lord Leyton Hightower;sworn loyalty
+Lord Mace Tyrell;Ser Jon Fossoway;sworn loyalty
+Prince Doran Martell;Areo Hotah;sworn loyalty
+Prince Doran Martell;Maester Caleotte;sworn loyalty
+Prince Doran Martell;Lord Edric Dayne, Ned;sworn loyalty
+Tyrion Lannister, The Imp;Bronn;sword in service
+Tyrion Lannister, The Imp;Podrick Payne;squire
+Tyrion Lannister, The Imp;Shagga, Son of Dolf;sword in service
+Tyrion Lannister, The Imp;Chella, Daughter of Cheyk;sword in service
+Tyrion Lannister, The Imp;Timett, Son of Timett;sword in service
+Tyrion Lannister, The Imp;Crawn, Son of Calor;sword in service
+King Stannis I Baratheon;Maester Cressen;sworn loyalty
+King Stannis I Baratheon;Maester Pylos;sworn loyalty
+King Stannis I Baratheon;Ser Axell Florent;sworn loyalty
+King Stannis I Baratheon;Melisandre;sworn loyalty
+King Stannis I Baratheon;Ser Davos Seaworth, The Onion Knight;sworn loyalty
+King Stannis I Baratheon;Bryen Farring;squire
+King Stannis I Baratheon;Lord Ardrian Celtigar;sworn loyalty
+King Stannis I Baratheon;Lord Monford Velaryon;sworn loyalty
+King Stannis I Baratheon;Lord Duram Bar Emmon;sworn loyalty
+King Stannis I Baratheon;Salladhor Saan;sailor in service
+King Stannis I Baratheon;Morosh, The Myrman;sailor in service
+King Stannis I Baratheon;Lord Guncer Sunglass;sworn loyalty
+King Renly I Baratheon;Lord Mace Tyrell;sworn loyalty
+King Renly I Baratheon;Lord Bryce Caron;sworn loyalty
+King Renly I Baratheon;Lady Shyra Errol;sworn loyalty
+King Renly I Baratheon;Lord Alester Florent;sworn loyalty
+King Renly I Baratheon;Lord Selwyn Tarth, The Evenstar;sworn loyalty
+King Renly I Baratheon;Lord Steffon Varner;sworn loyalty
+King Renly I Baratheon;Ser Cortnay Penrose;sworn loyalty
+King Renly I Baratheon;Ser Donnel Swann;sworn loyalty
+King Renly I Baratheon;Ser Bryan Fossoway;sworn loyalty
+King Renly I Baratheon;Ser Tanton Fossoway;sworn loyalty
+King Renly I Baratheon;Ser Edwyd Fossoway;sworn loyalty
+King Renly I Baratheon;Ser Colen, Of Greenpools;sworn loyalty
+King Renly I Baratheon;Ser Mark Mullendore;sworn loyalty
+King Renly I Baratheon;Ser Ronnet Connington, Red Ronnet;sworn loyalty
+King Renly I Baratheon;Maester Jurne;sworn loyalty
+Ser Cortnay Penrose;Edric Storm;ward
+King Robb Stark;Prince Theon Greyjoy;sworn loyalty
+King Robb Stark;Hallis Mollen;sworn loyalty
+Hallis Mollen;Jacks;sworn loyalty
+Hallis Mollen;Quent;sworn loyalty
+Hallis Mollen;Shadd;sworn loyalty
+King Robb Stark;Patrek Mallister;sworn loyalty
+King Robb Stark;Jon Umber, Smalljon;sworn loyalty
+King Robb Stark;Lord Robin Flint;sworn loyalty
+King Robb Stark;Ser Perwyn Frey;sworn loyalty
+King Robb Stark;Lucas Blackwood;sworn loyalty
+King Robb Stark;Olyvar Frey;squire
+King Robb Stark;Maester Luwin;sworn loyalty
+King Robb Stark;Ser Rodrik Cassel;sworn loyalty
+King Robb Stark;Farlen, the kennelmaster;sworn loyalty
+King Robb Stark;Hayhead;sworn loyalty
+King Robb Stark;Alebelly;sworn loyalty
+King Robb Stark;Skittrick;sworn loyalty
+King Robb Stark;Tym, Poxy Tym;sworn loyalty
+Lady Catelyn Tully/Stark;Walder Frey, Big Walder;ward
+Lady Catelyn Tully/Stark;Walder Frey, Little Walder;ward
+King Robb Stark;Lord Wyman Manderly;sworn loyalty
+King Robb Stark;Lady Maege Mormont;sworn loyalty
+King Robb Stark;Master Galbart Glover;sworn loyalty
+King Robb Stark;Lord Roose Bolton;sworn loyalty
+King Robb Stark;Lord Rickard Karstark;sworn loyalty
+King Robb Stark;Robett Glover;sworn loyalty
+King Robb Stark;Lord Jon Umber, Greatjon;sworn loyalty
+King Robb Stark;Lord Howland Reed;sworn loyalty
+King Robb Stark;Leobald Tallhart;sworn loyalty
+King Robb Stark;Lady Donella Manderly/Hornwood;sworn loyalty
+Queen Daenerys I Targaryen;Ser Jorah Mormont;sworn loyalty
+Queen Daenerys I Targaryen;Jhogo;bloodrider
+Queen Daenerys I Targaryen;Aggo;bloodrider
+Queen Daenerys I Targaryen;Rakharo;bloodrider
+Queen Daenerys I Targaryen;Irri;handmaid
+Queen Daenerys I Targaryen;Jhiqui;handmaid
+Queen Daenerys I Targaryen;Doreah;handmaid
+King Balon IX Greyjoy;Lord Sawane Botley;sworn loyalty
+King Balon IX Greyjoy;Lord Gorold Goodbrother;sworn loyalty
+King Balon IX Greyjoy;Lord Waldon Wynch;sworn loyalty
+King Balon IX Greyjoy;Lord Rodrik Harlaw, The Reader;sworn loyalty
+King Balon IX Greyjoy;Lord Norne Goodbrother;sworn loyalty
+King Balon IX Greyjoy;Lord Meldred Merlyn, The Merlyn;sworn loyalty
+King Balon IX Greyjoy;Lord Baelor Blacktyde;sworn loyalty
+King Balon IX Greyjoy;Lord Donnor Saltcliffe;sworn loyalty
+King Balon IX Greyjoy;Lord Dunstan Drumm;sworn loyalty
+Ser Gregor Clegane, The Mountain that Rides;Nicknamed, The Tickler;soldier in service
+Ser Gregor Clegane, The Mountain that Rides;Chiswyck;soldier in service
+Ser Gregor Clegane, The Mountain that Rides;Rafford, Raff the Sweetling;soldier in service
+Ser Gregor Clegane, The Mountain that Rides;Polliver;soldier in service
+Ser Gregor Clegane, The Mountain that Rides;Dunsen;soldier in service
+Lord Tywin Lannister;Lord Gawen Westerling;sworn loyalty
+Vargo Hoat;Septon Utt;man in service
+Vargo Hoat;Qyburn;man in service
+Vargo Hoat;Urswyck, Faithful Urswyck;man in service
+Vargo Hoat;Togg Joth;man in service
+Vargo Hoat;Iggo;man in service
+Vargo Hoat;Timeon the Dornishman;man in service
+Vargo Hoat;Rorge;man in service
+Vargo Hoat;Biter;man in service
+Vargo Hoat;Zollo;man in service
+Vargo Hoat;Pyg;man in service
+Vargo Hoat;Nicknamed, Three Toes;man in service
+King Stannis I Baratheon;Lord Monterys Velaryon;sworn loyalty
+King Stannis I Baratheon;Ser Gilbert Farring;sworn loyalty
+King Stannis I Baratheon;Lord Lester Morrigen;sworn loyalty
+King Stannis I Baratheon;Lord Lucos Chyttering, Little Lucos;sworn loyalty
+King Stannis I Baratheon;Ser Lomas Estermont;sworn loyalty
+King Stannis I Baratheon;Ser Rolland Storm, The Bastard of Nightsong;sworn loyalty
+King Stannis I Baratheon;Ser Parmen Crane, The Purple;sworn loyalty
+King Stannis I Baratheon;Ser Erren Florent;sworn loyalty
+King Stannis I Baratheon;Ser Gerald Gower;sworn loyalty
+King Stannis I Baratheon;Lewys, The Fishwife;sworn loyalty
+King Stannis I Baratheon;Ser Triston, Of Tally Hill;sworn loyalty
+King Stannis I Baratheon;Omer Blackberry;sworn loyalty
+Queen Daenerys I Targaryen;Belwas, Strong Belwas;sworn loyalty
+Queen Daenerys I Targaryen;Ser Barristan Selmy;sworn loyalty
+Queen Daenerys I Targaryen;Captain Groleo;captain in service
+Queen Daenerys I Targaryen;Grey Worm;sworn loyalty
+Queen Daenerys I Targaryen;Ben Plumm, Brown Ben Plumm;sworn loyalty
+Queen Daenerys I Targaryen;Daario Naharis;sworn loyalty
+King Balon IX Greyjoy;Lord Maron Volmark;sworn loyalty
+King Balon IX Greyjoy;Lord Alyn Orkwood, Orkwood of Orkmont;sworn loyalty
+King Balon IX Greyjoy;Lord Balon Tawney;sworn loyalty
+Lady Lysa Tully/Arryn, Baelish;Lord Horton Redfort;sworn loyalty
+Lord Tywin Lannister;Lord Damon Marbrand;sworn loyalty
+Lord Tywin Lannister;Lord Roland Crakehall;sworn loyalty
+Lord Tywin Lannister;Lord Regenard Estren;sworn loyalty
+Lord Tywin Lannister;Lord Lewys Lydden;sworn loyalty
+Lord Tywin Lannister;Lord Philip Plumm;sworn loyalty
+Lord Tywin Lannister;Lord Quenten Banefort;sworn loyalty
+Prince Doran Martell;Lord Harmen Uller;sworn loyalty
+Prince Doran Martell;Lord Dagos Manwoody;sworn loyalty
+Prince Doran Martell;Lady Larra Blackmont;sworn loyalty
+Prince Doran Martell;Lady Delonne Allyrion;sworn loyalty
+Prince Doran Martell;Lady Nymella Toland;sworn loyalty
+Prince Doran Martell;Lord Tremond Gargalen;sworn loyalty
+Prince Doran Martell;Lord Anders Yronwood;sworn loyalty
+Lord Hoster Tully;Lord Clement Piper;sworn loyalty
+Lord Hoster Tully;Lord Norbert Vance;sworn loyalty
+Lord Hoster Tully;Lord Theomar Smallwood;sworn loyalty
+Lord Hoster Tully;Lord William Mooton;sworn loyalty
+Lord Hoster Tully;Ser Halmon Paege;sworn loyalty
+Lord Mace Tyrell;Lord Orton Merryweather;sworn loyalty
+Lord Mace Tyrell;Lord Arthur Ambrose;sworn loyalty
+Lord Beric Dondarrion, The Lightning Lord;Lord Edric Dayne, Ned;squire
+Lord Beric Dondarrion, The Lightning Lord;Thoros Of Myr;right hand
+Lord Beric Dondarrion, The Lightning Lord;Lem, Lem Lemoncloak;follower
+Lord Beric Dondarrion, The Lightning Lord;Tom, Of Sevenstreams, O'Sevens, Sevenstrings;follower
+Lord Beric Dondarrion, The Lightning Lord;Jack-Be-Lucky;follower
+Lord Beric Dondarrion, The Lightning Lord;Harwin;follower
+Lord Beric Dondarrion, The Lightning Lord;Pello, Of Tyrosh, Greenbeard;follower
+Lord Beric Dondarrion, The Lightning Lord;Anguy;follower
+Lord Beric Dondarrion, The Lightning Lord;Nicknamed, The Mad Huntsman;follower
+Lord Beric Dondarrion, The Lightning Lord;Dennet, of the Brotherhood without Banners;follower
+Lord Beric Dondarrion, The Lightning Lord;Kyle, Of the Brotherhood without Banners;follower
+Lord Beric Dondarrion, The Lightning Lord;Melly, Of the Brotherhood without Banners;follower
+Lord Beric Dondarrion, The Lightning Lord;Notch;follower
+Lord Beric Dondarrion, The Lightning Lord;Dick, Beardless Dick;follower
+Lord Beric Dondarrion, The Lightning Lord;Mudge, of the Brotherhood without Banner;follower
+Lord Beric Dondarrion, The Lightning Lord;Watty, The Miller;follower
+Lord Beric Dondarrion, The Lightning Lord;Merrit, Merrit o' Moontown;follower
+Lord Beric Dondarrion, The Lightning Lord;Luke, Likely Luke;follower
+Lord Leyton Hightower;Lord Tommen Costayne;sworn loyalty
+Lord Leyton Hightower;Lord Martyn Mullendore;sworn loyalty
+Lord Leyton Hightower;Lord Warryn Beesbury;sworn loyalty
+Lord Leyton Hightower;Lord Branston Cuy;sworn loyalty
+Lord Leyton Hightower;Lady Alysanne Bulwer;sworn loyalty
+Ser Barristan Selmy;Tumco Lho;squire
+Ser Barristan Selmy;Larraq, The Lash;squire
+Ser Barristan Selmy;Nicknamed, The Red Lamb;squire
+Queen Daenerys I Targaryen;Jaqqa Rhan Rommo;sworn loyalty
+Queen Daenerys I Targaryen;Mollono Yos Dob;sworn loyalty
+Queen Daenerys I Targaryen;Symon Stripeback;sworn loyalty
+Queen Daenerys I Targaryen;Marselen, 1st brother of Missandei;sworn loyalty

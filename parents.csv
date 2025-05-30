@@ -1,0 +1,813 @@
+start_node;end_node;type
+King Robert I Baratheon;Mya Stone;bastard
+King Robert I Baratheon;Bella;bastard
+King Robert I Baratheon;Gendry;bastard
+King Robert I Baratheon;Edric Storm;bastard
+King Robert I Baratheon;Barra;bastard
+Queen Cersei Lannister;King Joffrey I Baratheon;bastard
+Queen Cersei Lannister;Princess Myrcella Baratheon;bastard
+Queen Cersei Lannister;King Tommen I Baratheon;bastard
+Ser Jaime Lannister, Kingslayer;King Joffrey I Baratheon;bastard
+Ser Jaime Lannister, Kingslayer;Princess Myrcella Baratheon;bastard
+Ser Jaime Lannister, Kingslayer;King Tommen I Baratheon;bastard
+Lord Tywin Lannister;Queen Cersei Lannister;legitimate
+Lord Tywin Lannister;Ser Jaime Lannister, Kingslayer;legitimate
+Lord Tywin Lannister;Tyrion Lannister, The Imp;legitimate
+Lady Joanna Lannister;Queen Cersei Lannister;legitimate
+Lady Joanna Lannister;Ser Jaime Lannister, Kingslayer;legitimate
+Lady Joanna Lannister;Tyrion Lannister, The Imp;legitimate
+Ser Kevan Lannister;Lord Lancel Lannister;legitimate
+Ser Kevan Lannister;Willem Lannister;legitimate
+Ser Kevan Lannister;Martyn Lannister;legitimate
+Ser Kevan Lannister;Janei Lannister;legitimate
+Dorna Swyft/Lannister;Lord Lancel Lannister;legitimate
+Dorna Swyft/Lannister;Willem Lannister;legitimate
+Dorna Swyft/Lannister;Martyn Lannister;legitimate
+Dorna Swyft/Lannister;Janei Lannister;legitimate
+Lady Genna Lannister/Frey ;Ser Cleos Frey;legitimate
+Lady Genna Lannister/Frey ;Ser Lyonel Frey;legitimate
+Lady Genna Lannister/Frey ;Tion Frey;legitimate
+Lady Genna Lannister/Frey ;Walder Frey, Red Walder;legitimate
+Lord Emmon Frey;Ser Cleos Frey;legitimate
+Lord Emmon Frey;Ser Lyonel Frey;legitimate
+Lord Emmon Frey;Tion Frey;legitimate
+Lord Emmon Frey;Walder Frey, Red Walder;legitimate
+Ser Cleos Frey;Tywin Frey, Son of Ser Cleos;legitimate
+Ser Cleos Frey;Willem Frey;legitimate
+Jeyne Darry/Frey, Wife of Ser Cleos;Tywin Frey, Son of Ser Cleos;legitimate
+Jeyne Darry/Frey, Wife of Ser Cleos;Willem Frey;legitimate
+Ser Tygett Lannister, Tyg;Tyrek Lannister;legitimate
+Darlessa Marbrand/Lannister;Tyrek Lannister;legitimate
+Gerion Lannister, Gery;Joy Hill;bastard
+Briony;Joy Hill;bastard
+Ser Stafford Lannister;Ser Daven Lannister;legitimate
+Ser Stafford Lannister;Cerenna Lannister;legitimate
+Ser Stafford Lannister;Myrielle Lannister;legitimate
+Myranda Lefford/Lannister;Ser Daven Lannister;legitimate
+Myranda Lefford/Lannister;Cerenna Lannister;legitimate
+Myranda Lefford/Lannister;Myrielle Lannister;legitimate
+Lord Jon Arryn;Lord Robert Arryn;legitimate
+Lady Lysa Tully/Arryn, Baelish;Lord Robert Arryn;legitimate
+Lord Hoster Tully;Lady Catelyn Tully/Stark;legitimate
+Lord Hoster Tully;Lady Lysa Tully/Arryn, Baelish;legitimate
+Lord Hoster Tully;Lord Edmure Tully;legitimate
+Lady Minisa Whent/Tully;Lady Catelyn Tully/Stark;legitimate
+Lady Minisa Whent/Tully;Lady Lysa Tully/Arryn, Baelish;legitimate
+Lady Minisa Whent/Tully;Lord Edmure Tully;legitimate
+Lord Mace Tyrell;Willas Tyrell;legitimate
+Lord Mace Tyrell;Lord Garlan Tyrell;legitimate
+Lord Mace Tyrell;Ser Loras Tyrell, Knight of Flowers;legitimate
+Lord Mace Tyrell;Lady Margaery Tyrell/Baratheon;legitimate
+Lady Alerie Hightower/Tyrell;Willas Tyrell;legitimate
+Lady Alerie Hightower/Tyrell;Lord Garlan Tyrell;legitimate
+Lady Alerie Hightower/Tyrell;Ser Loras Tyrell, Knight of Flowers;legitimate
+Lady Alerie Hightower/Tyrell;Lady Margaery Tyrell/Baratheon;legitimate
+Lady Olenna Redwyne/Tyrell, Queen of Thorns;Lord Mace Tyrell;legitimate
+Lady Olenna Redwyne/Tyrell, Queen of Thorns;Lady Mina Tyrell/Redwyne;legitimate
+Lady Olenna Redwyne/Tyrell, Queen of Thorns;Lady Janna Tyrell/Fossoway;legitimate
+Lord Luthor Tyrell, Father of Mace;Lord Mace Tyrell;legitimate
+Lord Luthor Tyrell, Father of Mace;Lady Mina Tyrell/Redwyne;legitimate
+Lord Luthor Tyrell, Father of Mace;Lady Janna Tyrell/Fossoway;legitimate
+Lady Mina Tyrell/Redwyne;Ser Horas Redwyne, Horror;legitimate
+Lady Mina Tyrell/Redwyne;Ser Hobber Redwyne, Slobber;legitimate
+Lady Mina Tyrell/Redwyne;Desmera Redwyne;legitimate
+Lord Paxter Redwyne;Ser Horas Redwyne, Horror;legitimate
+Lord Paxter Redwyne;Ser Hobber Redwyne, Slobber;legitimate
+Lord Paxter Redwyne;Desmera Redwyne;legitimate
+Garth Tyrell, The Gross;Garse Flowers;bastard
+Garth Tyrell, The Gross;Garrett Flowers;bastard
+Ser Moryn Tyrell;Ser Luthor Tyrell, Son of Moryn;legitimate
+Ser Moryn Tyrell;Leo Tyrell, Leo the Lazy, Son of Moryn;legitimate
+Ser Luthor Tyrell, Son of Moryn;Ser Theodore Tyrell;legitimate
+Ser Luthor Tyrell, Son of Moryn;Maester Medwick (Tyrell);legitimate
+Ser Luthor Tyrell, Son of Moryn;Olene Tyrell/Blackbar;legitimate
+Lady Elyn Norridge/Tyrell;Ser Theodore Tyrell;legitimate
+Lady Elyn Norridge/Tyrell;Maester Medwick (Tyrell);legitimate
+Lady Elyn Norridge/Tyrell;Olene Tyrell/Blackbar;legitimate
+Ser Theodore Tyrell;Luthor Tyrell, Son of Theodore;legitimate
+Ser Theodore Tyrell;Elinor Tyrell;legitimate
+Lia Serry/Tyrell;Luthor Tyrell, Son of Theodore;legitimate
+Lia Serry/Tyrell;Elinor Tyrell;legitimate
+Ser Quentin Tyrell;Ser Olymer Tyrell;legitimate
+Ser Olymer Tyrell;Raymund Tyrell;legitimate
+Ser Olymer Tyrell;Rickard Tyrell;legitimate
+Ser Olymer Tyrell;Megga Tyrell;legitimate
+Lysa Meadows/Tyrell;Raymund Tyrell;legitimate
+Lysa Meadows/Tyrell;Rickard Tyrell;legitimate
+Lysa Meadows/Tyrell;Megga Tyrell;legitimate
+Ser Victor Tyrell;Lady Victaria Tyrell/Bulwer;legitimate
+Ser Victor Tyrell;Ser Leo Tyrell, Son of Victor;legitimate
+Lady Victaria Tyrell/Bulwer;Lady Alysanne Bulwer;legitimate
+Lord Jon Bulwer;Lady Alysanne Bulwer;legitimate
+Ser Leo Tyrell, Son of Victor;Alla Tyrell;legitimate
+Ser Leo Tyrell, Son of Victor;Leona Tyrell;legitimate
+Ser Leo Tyrell, Son of Victor;Lyonel Tyrell, Son of Leo;legitimate
+Ser Leo Tyrell, Son of Victor;Lucas Tyrell;legitimate
+Ser Leo Tyrell, Son of Victor;Lorent Tyrell;legitimate
+Alys Beesbury/Tyrell;Alla Tyrell;legitimate
+Alys Beesbury/Tyrell;Leona Tyrell;legitimate
+Alys Beesbury/Tyrell;Lyonel Tyrell, Son of Leo;legitimate
+Alys Beesbury/Tyrell;Lucas Tyrell;legitimate
+Alys Beesbury/Tyrell;Lorent Tyrell;legitimate
+Lord Quellon Greyjoy;Harlon Greyjoy;legitimate
+Lord Quellon Greyjoy;Quenton Greyjoy;legitimate
+Lord Quellon Greyjoy;Donel Greyjoy;legitimate
+Lord Quellon Greyjoy;King Balon IX Greyjoy;legitimate
+Lord Quellon Greyjoy;King Euron III Greyjoy, Crow's Eye;legitimate
+Lord Quellon Greyjoy;Victarion Greyjoy;legitimate
+Lord Quellon Greyjoy;Urrigon Greyjoy, Urri;legitimate
+Lord Quellon Greyjoy;Aeron Greyjoy, Damphair;legitimate
+Lord Quellon Greyjoy;Robin Greyjoy;legitimate
+King Balon IX Greyjoy;Rodrik Greyjoy;legitimate
+King Balon IX Greyjoy;Maron Greyjoy;legitimate
+King Balon IX Greyjoy;Princess Asha Greyjoy;legitimate
+King Balon IX Greyjoy;Prince Theon Greyjoy;legitimate
+Lady Alannys Harlaw/Greyjoy;Rodrik Greyjoy;legitimate
+Lady Alannys Harlaw/Greyjoy;Maron Greyjoy;legitimate
+Lady Alannys Harlaw/Greyjoy;Princess Asha Greyjoy;legitimate
+Lady Alannys Harlaw/Greyjoy;Prince Theon Greyjoy;legitimate
+Prince Doran Martell;Princess Arianne Martell;legitimate
+Prince Doran Martell;Prince Quentyn Martell;legitimate
+Prince Doran Martell;Prince Trystane Martell;legitimate
+Lady Mellario Martell, of Norvos;Princess Arianne Martell;legitimate
+Lady Mellario Martell, of Norvos;Prince Quentyn Martell;legitimate
+Lady Mellario Martell, of Norvos;Prince Trystane Martell;legitimate
+Prince Oberyn Martell;Obara Sand;bastard
+Prince Oberyn Martell;Nymeria Sand, Nym;bastard
+Prince Oberyn Martell;Tyene Sand;bastard
+Prince Oberyn Martell;Sarella Sand;bastard
+Prince Oberyn Martell;Elia Sand;bastard
+Prince Oberyn Martell;Obella Sand;bastard
+Prince Oberyn Martell;Dorea Sand;bastard
+Prince Oberyn Martell;Loreza Sand;bastard
+Ellaria Sand;Elia Sand;bastard
+Ellaria Sand;Obella Sand;bastard
+Ellaria Sand;Dorea Sand;bastard
+Ellaria Sand;Loreza Sand;bastard
+Lord Aenar Targaryen, Aenar the Exile;Lord Gaemon Targaryen, the Glorious;legitimate
+Lord Aenar Targaryen, Aenar the Exile;Lady Daenys Targaryen, the Dreamer;legitimate
+Lord Gaemon Targaryen, the Glorious;Lord Aegon Targaryen, son of Gaemon;legitimate
+Lord Gaemon Targaryen, the Glorious;Lady Elaena Targaryen, daughter of Gaemon;legitimate
+Lady Daenys Targaryen, the Dreamer;Lord Aegon Targaryen, son of Gaemon;legitimate
+Lady Daenys Targaryen, the Dreamer;Lady Elaena Targaryen, daughter of Gaemon;legitimate
+Lord Aegon Targaryen, son of Gaemon;Lord Maegon Targaryen;legitimate
+Lord Aegon Targaryen, son of Gaemon;Lord Aerys Targaryen, son of Aegon;legitimate
+Lady Elaena Targaryen, daughter of Gaemon;Lord Maegon Targaryen;legitimate
+Lady Elaena Targaryen, daughter of Gaemon;Lord Aerys Targaryen, son of Aegon;legitimate
+Lord Aerys Targaryen, son of Aegon;Lord Aelyx Targaryen;legitimate
+Lord Aerys Targaryen, son of Aegon;Lord Baelon Targaryen, son of Aegon;legitimate
+Lord Aerys Targaryen, son of Aegon;Lord Daemion Targaryen;legitimate
+Lord Daemion Targaryen;Lord Aerion Targaryen, son of Daemion;legitimate
+Lord Aerion Targaryen, son of Daemion;Queen Visenya Targaryen, Wife of Aegon I;legitimate
+Lord Aerion Targaryen, son of Daemion;King Aegon I Targaryen, The Conqueror/The Dragon;legitimate
+Lord Aerion Targaryen, son of Daemion;Queen Rhaenys Targaryen, Wife of Aegon I;legitimate
+Lady Valaena Velaryon/Targaryen, Baratheon;Queen Visenya Targaryen, Wife of Aegon I;legitimate
+Lady Valaena Velaryon/Targaryen, Baratheon;King Aegon I Targaryen, The Conqueror/The Dragon;legitimate
+Lady Valaena Velaryon/Targaryen, Baratheon;Queen Rhaenys Targaryen, Wife of Aegon I;legitimate
+King Aegon I Targaryen, The Conqueror/The Dragon;King Aenys I Targaryen;legitimate
+Queen Rhaenys Targaryen, Wife of Aegon I;King Aenys I Targaryen;legitimate
+King Aegon I Targaryen, The Conqueror/The Dragon;King Maegor I Targaryen, The Cruel;legitimate
+Queen Visenya Targaryen, Wife of Aegon I;King Maegor I Targaryen, The Cruel;legitimate
+King Aenys I Targaryen;Princess Rhaena Targaryen, The Black Bride;legitimate
+King Aenys I Targaryen;Prince Aegon Targaryen, son of Aenys I;legitimate
+King Aenys I Targaryen;King Jaehaerys I Targaryen;legitimate
+King Aenys I Targaryen;Queen Alysanne Targaryen        ;legitimate
+King Aenys I Targaryen;Prince Viserys Targaryen, son of Aenys I;legitimate
+King Aenys I Targaryen;Princess Vaella Targaryen, daughter of Aenys I;legitimate
+Queen Alyssa Velaryon;Princess Rhaena Targaryen, The Black Bride;legitimate
+Queen Alyssa Velaryon;Prince Aegon Targaryen, son of Aenys I;legitimate
+Queen Alyssa Velaryon;King Jaehaerys I Targaryen;legitimate
+Queen Alyssa Velaryon;Queen Alysanne Targaryen        ;legitimate
+Queen Alyssa Velaryon;Prince Viserys Targaryen, son of Aenys I;legitimate
+Queen Alyssa Velaryon;Princess Vaella Targaryen, daughter of Aenys I;legitimate
+Princess Rhaena Targaryen, The Black Bride;Princess Aerea Targaryen;legitimate
+Princess Rhaena Targaryen, The Black Bride;Princess Rhalla Targaryen;legitimate
+Prince Aegon Targaryen, son of Aenys I;Princess Aerea Targaryen;legitimate
+Prince Aegon Targaryen, son of Aenys I;Princess Rhalla Targaryen;legitimate
+King Jaehaerys I Targaryen;Prince Aemon Targaryen, son of Jaehaerys I;legitimate
+King Jaehaerys I Targaryen;Prince Baelon Targaryen, the Brave;legitimate
+King Jaehaerys I Targaryen;Princess Alyssa Targaryen;legitimate
+King Jaehaerys I Targaryen;Archmaester Vaegon (Targaryen);legitimate
+King Jaehaerys I Targaryen;Septa Maegelle (Targaryen);legitimate
+King Jaehaerys I Targaryen;Princess Daella Arryn/Targaryen, daughter of Jaehaerys I;legitimate
+King Jaehaerys I Targaryen;Princess Saera Targaryen;legitimate
+King Jaehaerys I Targaryen;Princess Viserra Targaryen;legitimate
+King Jaehaerys I Targaryen;Princess Gael Targaryen;legitimate
+Queen Alysanne Targaryen        ;Prince Aemon Targaryen, son of Jaehaerys I;legitimate
+Queen Alysanne Targaryen        ;Prince Baelon Targaryen, the Brave;legitimate
+Queen Alysanne Targaryen        ;Princess Alyssa Targaryen;legitimate
+Queen Alysanne Targaryen        ;Archmaester Vaegon (Targaryen);legitimate
+Queen Alysanne Targaryen        ;Septa Maegelle (Targaryen);legitimate
+Queen Alysanne Targaryen        ;Princess Daella Arryn/Targaryen, daughter of Jaehaerys I;legitimate
+Queen Alysanne Targaryen        ;Princess Saera Targaryen;legitimate
+Queen Alysanne Targaryen        ;Princess Viserra Targaryen;legitimate
+Queen Alysanne Targaryen        ;Princess Gael Targaryen;legitimate
+Prince Aemon Targaryen, son of Jaehaerys I;Princess Rhaenys Targaryen/Velaryon, The Queen Who Never Was;legitimate
+Lady Jocelyn Baratheon/Targaryen;Princess Rhaenys Targaryen/Velaryon, The Queen Who Never Was;legitimate
+Prince Baelon Targaryen, the Brave;King Viserys I Targaryen;legitimate
+Prince Baelon Targaryen, the Brave;Prince Daemon Targaryen;legitimate
+Princess Alyssa Targaryen;King Viserys I Targaryen;legitimate
+Princess Alyssa Targaryen;Prince Daemon Targaryen;legitimate
+Lord Rodrik Arryn;Queen Aemma Arryn;legitimate
+Princess Daella Arryn/Targaryen, daughter of Jaehaerys I;Queen Aemma Arryn;legitimate
+King Viserys I Targaryen;Princess Rhaenyra Targaryen;legitimate
+King Viserys I Targaryen;Prince Baelon Targaryen, Heir for a Day;legitimate
+Queen Aemma Arryn;Princess Rhaenyra Targaryen;legitimate
+Queen Aemma Arryn;Prince Baelon Targaryen, Heir for a Day;legitimate
+King Viserys I Targaryen;King Aegon II Targaryen, The Usurper;legitimate
+King Viserys I Targaryen;Queen Helaena Targaryen;legitimate
+King Viserys I Targaryen;Prince Aemond Targaryen;legitimate
+King Viserys I Targaryen;Prince Daeron Targaryen, the Daring;legitimate
+Queen Alicent Hightower/Targaryen;King Aegon II Targaryen, The Usurper;legitimate
+Queen Alicent Hightower/Targaryen;Queen Helaena Targaryen;legitimate
+Queen Alicent Hightower/Targaryen;Prince Aemond Targaryen;legitimate
+Queen Alicent Hightower/Targaryen;Prince Daeron Targaryen, the Daring;legitimate
+King Aegon II Targaryen, The Usurper;Prince Jaehaerys Targaryen, Son of Aegon II;legitimate
+King Aegon II Targaryen, The Usurper;Queen Jaehaera Targaryen;legitimate
+King Aegon II Targaryen, The Usurper;Prince Maelor Targaryen;legitimate
+Queen Helaena Targaryen;Prince Jaehaerys Targaryen, Son of Aegon II;legitimate
+Queen Helaena Targaryen;Queen Jaehaera Targaryen;legitimate
+Queen Helaena Targaryen;Prince Maelor Targaryen;legitimate
+Princess Rhaenys Targaryen/Velaryon, The Queen Who Never Was;Lady Laena Velaryon;legitimate
+Princess Rhaenys Targaryen/Velaryon, The Queen Who Never Was;Ser Laenor Velaryon;legitimate
+Lord Corlys Velaryon;Lady Laena Velaryon;legitimate
+Lord Corlys Velaryon;Ser Laenor Velaryon;legitimate
+Lord Corlys Velaryon;Ser Addam Velaryon, Of Hull;bastard
+Lord Corlys Velaryon;Lord Alyn Velaryon, Oakenfist;bastard
+Prince Daemon Targaryen;Princess Baela Targaryen/Velaryon;legitimate
+Prince Daemon Targaryen;Princess Rhaena Targaryen/Corbray, Hightower;legitimate
+Lady Laena Velaryon;Princess Baela Targaryen/Velaryon;legitimate
+Lady Laena Velaryon;Princess Rhaena Targaryen/Corbray, Hightower;legitimate
+Ser Laenor Velaryon;Prince Jacaerys Velaryon, Jace;legitimate
+Ser Laenor Velaryon;Prince Lucerys Velaryon, Luke;legitimate
+Ser Laenor Velaryon;Prince Joffrey Velaryon, Joff;legitimate
+Princess Rhaenyra Targaryen;Prince Jacaerys Velaryon, Jace;legitimate
+Princess Rhaenyra Targaryen;Prince Lucerys Velaryon, Luke;legitimate
+Princess Rhaenyra Targaryen;Prince Joffrey Velaryon, Joff;legitimate
+Prince Daemon Targaryen;King Aegon III Targaryen;legitimate
+Prince Daemon Targaryen;King Viserys II Targaryen;legitimate
+Prince Daemon Targaryen;Princess Visenya Targaryen, Daughter of Rhaenyra;legitimate
+Princess Rhaenyra Targaryen;King Aegon III Targaryen;legitimate
+Princess Rhaenyra Targaryen;King Viserys II Targaryen;legitimate
+Princess Rhaenyra Targaryen;Princess Visenya Targaryen, Daughter of Rhaenyra;legitimate
+King Aegon III Targaryen;King Daeron I Targaryen;legitimate
+King Aegon III Targaryen;King Baelor I Targaryen, The Blessed;legitimate
+King Aegon III Targaryen;Princess Daena Targaryen;legitimate
+King Aegon III Targaryen;Princess Rhaena Targaryen, daughter of Aegon III;legitimate
+King Aegon III Targaryen;Princess Elaena Targaryen/Plumm/Penrose/Manwoody;legitimate
+Queen Daenaera Velaryon;King Daeron I Targaryen;legitimate
+Queen Daenaera Velaryon;King Baelor I Targaryen, The Blessed;legitimate
+Queen Daenaera Velaryon;Princess Daena Targaryen;legitimate
+Queen Daenaera Velaryon;Princess Rhaena Targaryen, daughter of Aegon III;legitimate
+Queen Daenaera Velaryon;Princess Elaena Targaryen/Plumm/Penrose/Manwoody;legitimate
+King Viserys II Targaryen;King Aegon IV Targaryen;legitimate
+King Viserys II Targaryen;Prince Aemon Targaryen, The Dragonknight;legitimate
+King Viserys II Targaryen;Queen Naerys Targaryen;legitimate
+Lady Larra Rogare, of Lys;King Aegon IV Targaryen;legitimate
+Lady Larra Rogare, of Lys;Prince Aemon Targaryen, The Dragonknight;legitimate
+Lady Larra Rogare, of Lys;Queen Naerys Targaryen;legitimate
+King Aegon IV Targaryen;King Daeron II Targaryen, The Good;legitimate
+King Aegon IV Targaryen;Princess Daenerys Targaryen/Martell, daughter of Aegon IV;legitimate
+Queen Naerys Targaryen;King Daeron II Targaryen, The Good;legitimate
+Queen Naerys Targaryen;Princess Daenerys Targaryen/Martell, daughter of Aegon IV;legitimate
+King Aegon IV Targaryen;Daemon I Blackfyre;bastard
+Princess Daena Targaryen;Daemon I Blackfyre;bastard
+King Aegon IV Targaryen;Ser Aegor Rivers, Bittersteel;bastard
+Barbara Bracken;Ser Aegor Rivers, Bittersteel;bastard
+King Aegon IV Targaryen;Gwenys Rivers;bastard
+King Aegon IV Targaryen;Mya Rivers;bastard
+Lady Melissa Blackwood;Gwenys Rivers;bastard
+Lady Melissa Blackwood;Mya Rivers;bastard
+King Aegon IV Targaryen;"Lord Commander Brynden Rivers, Bloodraven (""The Crow"" in Bran's dreams)";bastard
+Lady Melissa Blackwood;"Lord Commander Brynden Rivers, Bloodraven (""The Crow"" in Bran's dreams)";bastard
+King Aegon IV Targaryen;Shiera Seastar;bastard
+Lady Serenei of Lys;Shiera Seastar;bastard
+King Aegon IV Targaryen;Alysanne, daughter of Aegon IV and Megette;bastard
+King Aegon IV Targaryen;Lily, daughter of Aegon IV and Megette;bastard
+King Aegon IV Targaryen;Willow, daughter of Aegon IV and Megette;bastard
+King Aegon IV Targaryen;Rosey, daughter of Aegon IV and Megette;bastard
+Megette, of Fairmarket, Merry Meg;Alysanne, daughter of Aegon IV and Megette;bastard
+Megette, of Fairmarket, Merry Meg;Lily, daughter of Aegon IV and Megette;bastard
+Megette, of Fairmarket, Merry Meg;Willow, daughter of Aegon IV and Megette;bastard
+Megette, of Fairmarket, Merry Meg;Rosey, daughter of Aegon IV and Megette;bastard
+King Aegon IV Targaryen;Bellonara Otherys, bastard daughter of Aegon IV, The 2nd Black Pearl;bastard
+King Aegon IV Targaryen;Balerion Otherys;bastard
+King Aegon IV Targaryen;Narha Otherys;bastard
+Captain Bellegere Otherys, Aegon IV's mistress, The 1st Black Pearl;Bellonara Otherys, bastard daughter of Aegon IV, The 2nd Black Pearl;bastard
+Captain Bellegere Otherys, Aegon IV's mistress, The 1st Black Pearl;Balerion Otherys;bastard
+Captain Bellegere Otherys, Aegon IV's mistress, The 1st Black Pearl;Narha Otherys;bastard
+King Daeron II Targaryen, The Good;Prince Baelor Targaryen, Breakspear;legitimate
+King Daeron II Targaryen, The Good;King Aerys I Targaryen;legitimate
+King Daeron II Targaryen, The Good;Prince Rhaegel Targaryen;legitimate
+King Daeron II Targaryen, The Good;King Maekar I Targaryen;legitimate
+Princess Mariah Martell;Prince Baelor Targaryen, Breakspear;legitimate
+Princess Mariah Martell;King Aerys I Targaryen;legitimate
+Princess Mariah Martell;Prince Rhaegel Targaryen;legitimate
+Princess Mariah Martell;King Maekar I Targaryen;legitimate
+Prince Baelor Targaryen, Breakspear;Prince Valarr Targaryen, The Young Prince;legitimate
+Prince Baelor Targaryen, Breakspear;Prince Matarys Targaryen, The Even Younger Prince;legitimate
+Lady Jena Dondarrion/Targaryen;Prince Valarr Targaryen, The Young Prince;legitimate
+Lady Jena Dondarrion/Targaryen;Prince Matarys Targaryen, The Even Younger Prince;legitimate
+Prince Rhaegel Targaryen;Princess Aelora Targaryen;legitimate
+Prince Rhaegel Targaryen;Prince Aelor Targaryen;legitimate
+Prince Rhaegel Targaryen;Princess Daenora Targaryen;legitimate
+Lady Alys Arryn/Targaryen, wife of Prince Rhaegel Targaryen;Princess Aelora Targaryen;legitimate
+Lady Alys Arryn/Targaryen, wife of Prince Rhaegel Targaryen;Prince Aelor Targaryen;legitimate
+Lady Alys Arryn/Targaryen, wife of Prince Rhaegel Targaryen;Princess Daenora Targaryen;legitimate
+King Maekar I Targaryen;Prince Daeron Targaryen, The Drunken;legitimate
+King Maekar I Targaryen;Prince Aerion Targaryen;legitimate
+King Maekar I Targaryen;Maester Aemon (Targaryen);legitimate
+King Maekar I Targaryen;Princess Daella Targaryen, Daughter of Maekar I;legitimate
+King Maekar I Targaryen;King Aegon V Targaryen;legitimate
+King Maekar I Targaryen;Princess Rhae Targaryen;legitimate
+Lady Dyanna Dayne/Targaryen;Prince Daeron Targaryen, The Drunken;legitimate
+Lady Dyanna Dayne/Targaryen;Prince Aerion Targaryen;legitimate
+Lady Dyanna Dayne/Targaryen;Maester Aemon (Targaryen);legitimate
+Lady Dyanna Dayne/Targaryen;Princess Daella Targaryen, Daughter of Maekar I;legitimate
+Lady Dyanna Dayne/Targaryen;King Aegon V Targaryen;legitimate
+Lady Dyanna Dayne/Targaryen;Princess Rhae Targaryen;legitimate
+Prince Daeron Targaryen, The Drunken;Princess Vaella Targaryen, daughter of Daeron the Drunken;legitimate
+Lady Kiera of Tyrosh;Princess Vaella Targaryen, daughter of Daeron the Drunken;legitimate
+Prince Aerion Targaryen;Prince Maegor Targaryen, son of Aerion;legitimate
+Princess Daenora Targaryen;Prince Maegor Targaryen, son of Aerion;legitimate
+King Aegon V Targaryen;Prince Duncan Targaryen;legitimate
+King Aegon V Targaryen;King Jaehaerys II Targaryen;legitimate
+King Aegon V Targaryen;Queen Shaera Targaryen;legitimate
+King Aegon V Targaryen;Prince Daeron Targaryen, son of Aegon V;legitimate
+King Aegon V Targaryen;Princess Rhaelle Targaryen/Baratheon;legitimate
+Queen Betha Blackwood/Targaryen;Prince Duncan Targaryen;legitimate
+Queen Betha Blackwood/Targaryen;King Jaehaerys II Targaryen;legitimate
+Queen Betha Blackwood/Targaryen;Queen Shaera Targaryen;legitimate
+Queen Betha Blackwood/Targaryen;Prince Daeron Targaryen, son of Aegon V;legitimate
+Queen Betha Blackwood/Targaryen;Princess Rhaelle Targaryen/Baratheon;legitimate
+King Jaehaerys II Targaryen;King Aerys II Targaryen, The Mad King;legitimate
+King Jaehaerys II Targaryen;Queen Rhaella Targaryen, Wife of Aerys II;legitimate
+Queen Shaera Targaryen;King Aerys II Targaryen, The Mad King;legitimate
+Queen Shaera Targaryen;Queen Rhaella Targaryen, Wife of Aerys II;legitimate
+King Aerys II Targaryen, The Mad King;Prince Rhaegar Targaryen;legitimate
+King Aerys II Targaryen, The Mad King;Prince Viserys III Targaryen;legitimate
+King Aerys II Targaryen, The Mad King;Queen Daenerys I Targaryen;legitimate
+Queen Rhaella Targaryen, Wife of Aerys II;Prince Rhaegar Targaryen;legitimate
+Queen Rhaella Targaryen, Wife of Aerys II;Prince Viserys III Targaryen;legitimate
+Queen Rhaella Targaryen, Wife of Aerys II;Queen Daenerys I Targaryen;legitimate
+Prince Rhaegar Targaryen;Princess Rhaenys Targaryen, daughter of Rhaegar;legitimate
+Prince Rhaegar Targaryen;Prince Aegon Targaryen;legitimate
+Princess Elia Martell;Princess Rhaenys Targaryen, daughter of Rhaegar;legitimate
+Princess Elia Martell;Prince Aegon Targaryen;legitimate
+Queen Daenerys I Targaryen;Rhaego;legitimate
+Khal Drogo;Rhaego;legitimate
+Princess Rhaelle Targaryen/Baratheon;Lord Steffon Baratheon;legitimate
+Lord Ormund Baratheon;Lord Steffon Baratheon;legitimate
+Lord Steffon Baratheon;King Robert I Baratheon;legitimate
+Lord Steffon Baratheon;King Stannis I Baratheon;legitimate
+Lord Steffon Baratheon;King Renly I Baratheon;legitimate
+Lady Cassana Estremont/Baratheon;King Robert I Baratheon;legitimate
+Lady Cassana Estremont/Baratheon;King Stannis I Baratheon;legitimate
+Lady Cassana Estremont/Baratheon;King Renly I Baratheon;legitimate
+King Stannis I Baratheon;Princess Shireen Baratheon;legitimate
+Lady Selyse Florent/Baratheon;Princess Shireen Baratheon;legitimate
+Lord Orys Baratheon;Davos Baratheon;legitimate
+Lord Orys Baratheon;Ser Raymont Baratheon;legitimate
+Princess Argella Durrandon;Davos Baratheon;legitimate
+Princess Argella Durrandon;Ser Raymont Baratheon;legitimate
+"Lord Rogar Baratheon (both ""Rogar"" and ""Robar"" were used, but it is now confirmed that the final name is Rogar Baratheon)";Lord Boremund Baratheon;legitimate
+"Lord Rogar Baratheon (both ""Rogar"" and ""Robar"" were used, but it is now confirmed that the final name is Rogar Baratheon)";Lady Jocelyn Baratheon/Targaryen;legitimate
+Queen Alyssa Velaryon;Lord Boremund Baratheon;legitimate
+Queen Alyssa Velaryon;Lady Jocelyn Baratheon/Targaryen;legitimate
+Lord Boremund Baratheon;Lord Borros Baratheon;legitimate
+Lord Jasper Arryn;Alys Arryn/Waynwood;legitimate
+Lord Jasper Arryn;Lord Jon Arryn;legitimate
+Lord Jasper Arryn;Ser Ronnel Arryn;legitimate
+Ser Ronnel Arryn;Ser Elbert Arryn;legitimate
+Alys Arryn/Waynwood;Lord Jasper Arryn;legitimate
+Ser Elys Waynwood;Lord Jasper Arryn;legitimate
+Ser Harrold Hardyng, Harry the Heir;Alys Stone, bastard daughter of Ser Harrold Hardyng;bastard
+Cissy;Alys Stone, bastard daughter of Ser Harrold Hardyng;bastard
+Lord Benjen Stark, grandfather of Cregan;Lord Rickon Stark, father of Cregan;legitimate
+Lord Benjen Stark, grandfather of Cregan;Bennard Stark;legitimate
+Lady Lysa Locke/Stark;Lord Rickon Stark, father of Cregan;legitimate
+Lady Lysa Locke/Stark;Bennard Stark;legitimate
+Lord Rickon Stark, father of Cregan;Lord Cregan Stark;legitimate
+Lady Gilliane Glover/Stark;Lord Cregan Stark;legitimate
+Bennard Stark;Benjen Stark, son of Bennard;legitimate
+Bennard Stark;Brandon Stark, son of Bennard;legitimate
+Bennard Stark;Elric Stark, son of Bennard;legitimate
+Margaret Karstark/Stark;Benjen Stark, son of Bennard;legitimate
+Margaret Karstark/Stark;Brandon Stark, son of Bennard;legitimate
+Margaret Karstark/Stark;Elric Stark, son of Bennard;legitimate
+Lord Cregan Stark;Rickon Stark, son of Cregan;legitimate
+Lady Arra Norrey/Stark;Rickon Stark, son of Cregan;legitimate
+Lord Cregan Stark;Sarra Stark;legitimate
+Lord Cregan Stark;Alys Stark;legitimate
+Lord Cregan Stark;Raya Stark;legitimate
+Lord Cregan Stark;Mariah Stark;legitimate
+Lady Alysanne Blackwood/Stark;Sarra Stark;legitimate
+Lady Alysanne Blackwood/Stark;Alys Stark;legitimate
+Lady Alysanne Blackwood/Stark;Raya Stark;legitimate
+Lady Alysanne Blackwood/Stark;Mariah Stark;legitimate
+Lord Cregan Stark;Lord Jonnel Stark;legitimate
+Lord Cregan Stark;Edric Stark, son of Cregan;legitimate
+Lord Cregan Stark;Lyanna Stark, daughter of Cregan;legitimate
+Lord Cregan Stark;Lord Barthogan Stark;legitimate
+Lord Cregan Stark;Lord Brandon Stark, son of Cregan Stark;legitimate
+Lady Lynara Stark;Lord Jonnel Stark;legitimate
+Lady Lynara Stark;Edric Stark, son of Cregan;legitimate
+Lady Lynara Stark;Lyanna Stark, daughter of Cregan;legitimate
+Lady Lynara Stark;Lord Barthogan Stark;legitimate
+Lady Lynara Stark;Lord Brandon Stark, son of Cregan Stark;legitimate
+Rickon Stark, son of Cregan;Lady Sansa Stark, daughter of Rickon;legitimate
+Rickon Stark, son of Cregan;Serena Stark/Umber;legitimate
+Jeyne Manderly/Stark;Lady Sansa Stark, daughter of Rickon;legitimate
+Jeyne Manderly/Stark;Serena Stark/Umber;legitimate
+Edric Stark, son of Cregan;Cregard Stark;legitimate
+Edric Stark, son of Cregan;Torrhen Stark, son of Edric;legitimate
+Edric Stark, son of Cregan;Arrana Stark/Umber;legitimate
+Edric Stark, son of Cregan;Aregelle Stark/Cerwyn;legitimate
+Serena Stark/Umber;Cregard Stark;legitimate
+Serena Stark/Umber;Torrhen Stark, son of Edric;legitimate
+Serena Stark/Umber;Arrana Stark/Umber;legitimate
+Serena Stark/Umber;Aregelle Stark/Cerwyn;legitimate
+Lord Brandon Stark, son of Cregan Stark;Lonnel Snow;bastard
+Wylla Fenn;Lonnel Snow;bastard
+Lord Brandon Stark, son of Cregan Stark;Lord Rodwell Stark;legitimate
+Lord Brandon Stark, son of Cregan Stark;Lord Beron Stark;legitimate
+Lord Brandon Stark, son of Cregan Stark;Arsa Stark;legitimate
+Lady Alys Karstark/Stark, wife of Brandon Stark;Lord Rodwell Stark;legitimate
+Lady Alys Karstark/Stark, wife of Brandon Stark;Lord Beron Stark;legitimate
+Lady Alys Karstark/Stark, wife of Brandon Stark;Arsa Stark;legitimate
+Lord Beron Stark;Lord Donnor Stark;legitimate
+Lord Beron Stark;Lord Willam Stark;legitimate
+Lord Beron Stark;Artos Stark, The Implacable;legitimate
+Lord Beron Stark;Berena Stark;legitimate
+Lord Beron Stark;Alysanne Stark;legitimate
+Lord Beron Stark;Errold Stark;legitimate
+Lord Beron Stark;Rodrik Stark, the Wandering Wolf;legitimate
+Lady Lorra Royce/Stark;Lord Donnor Stark;legitimate
+Lady Lorra Royce/Stark;Lord Willam Stark;legitimate
+Lady Lorra Royce/Stark;Artos Stark, The Implacable;legitimate
+Lady Lorra Royce/Stark;Berena Stark;legitimate
+Lady Lorra Royce/Stark;Alysanne Stark;legitimate
+Lady Lorra Royce/Stark;Errold Stark;legitimate
+Lady Lorra Royce/Stark;Rodrik Stark, the Wandering Wolf;legitimate
+Lord Willam Stark;Brandon Stark, son of Willam Stark and Lyanne Glover;legitimate
+Lady Lyanne Glover/Stark;Brandon Stark, son of Willam Stark and Lyanne Glover;legitimate
+Lord Willam Stark;Lord Edwyle Stark;legitimate
+Lord Willam Stark;Jocelyn Stark/Royce;legitimate
+Lady Melantha Blackwood/Stark;Lord Edwyle Stark;legitimate
+Lady Melantha Blackwood/Stark;Jocelyn Stark/Royce;legitimate
+Artos Stark, The Implacable;Brandon Stark, son of Artos;legitimate
+Artos Stark, The Implacable;Benjen Stark, son of Artos;legitimate
+Lysara Karstark/Stark;Brandon Stark, son of Artos;legitimate
+Lysara Karstark/Stark;Benjen Stark, son of Artos;legitimate
+Rodrik Stark, the Wandering Wolf;Branda Stark/Rogers;legitimate
+Rodrik Stark, the Wandering Wolf;Lady Lyarra Stark;legitimate
+Arya Flint/Stark;Branda Stark/Rogers;legitimate
+Arya Flint/Stark;Lady Lyarra Stark;legitimate
+Lord Edwyle Stark;Lord Rickard Stark;legitimate
+Lady Marna Locke/Stark;Lord Rickard Stark;legitimate
+Lord Rickard Stark;Brandon Stark, Brother of Eddard;legitimate
+Lord Rickard Stark;Lord Eddard Stark;legitimate
+Lord Rickard Stark;Lyanna Stark;legitimate
+Lord Rickard Stark;Benjen Stark, brother of Eddard;legitimate
+Lady Lyarra Stark;Brandon Stark, Brother of Eddard;legitimate
+Lady Lyarra Stark;Lord Eddard Stark;legitimate
+Lady Lyarra Stark;Lyanna Stark;legitimate
+Lady Lyarra Stark;Benjen Stark, brother of Eddard;legitimate
+Lord Eddard Stark;King Robb Stark;legitimate
+Lord Eddard Stark;Princess Sansa Stark;legitimate
+Lord Eddard Stark;Princess Arya Stark;legitimate
+Lord Eddard Stark;Prince Brandon Stark, Bran;legitimate
+Lord Eddard Stark;Prince Rickon Stark;legitimate
+Lady Catelyn Tully/Stark;King Robb Stark;legitimate
+Lady Catelyn Tully/Stark;Princess Sansa Stark;legitimate
+Lady Catelyn Tully/Stark;Princess Arya Stark;legitimate
+Lady Catelyn Tully/Stark;Prince Brandon Stark, Bran;legitimate
+Lady Catelyn Tully/Stark;Prince Rickon Stark;legitimate
+Lord Eddard Stark;Lord Commander Jon Snow;bastard
+Lord Damon Lannister, The Grey Lion;Lord Tybolt Lannister;legitimate
+Lord Damon Lannister, The Grey Lion;Lord Gerold Lannister;legitimate
+Lady Cerissa Brax/Lannister;Lord Tybolt Lannister;legitimate
+Lady Cerissa Brax/Lannister;Lord Gerold Lannister;legitimate
+Lord Tybolt Lannister;Lady Cerelle Lannister;legitimate
+Lady Teora Kyndall/Lannister;Lady Cerelle Lannister;legitimate
+Lord Gerold Lannister;Ser Tywald Lannister;legitimate
+Lord Gerold Lannister;Ser Tion Lannister;legitimate
+Lord Gerold Lannister;Lord Tytos Lannister;legitimate
+Lord Gerold Lannister;Ser Jason Lannister, brother of Tytos;legitimate
+Lady Rohanne Webber/Staunton, Uffering, Osgrey, Lannister;Ser Tywald Lannister;legitimate
+Lady Rohanne Webber/Staunton, Uffering, Osgrey, Lannister;Ser Tion Lannister;legitimate
+Lady Rohanne Webber/Staunton, Uffering, Osgrey, Lannister;Lord Tytos Lannister;legitimate
+Lady Rohanne Webber/Staunton, Uffering, Osgrey, Lannister;Ser Jason Lannister, brother of Tytos;legitimate
+Ser Jason Lannister, brother of Tytos;Lady Joanna Lannister;legitimate
+Ser Jason Lannister, brother of Tytos;Ser Stafford Lannister;legitimate
+Marla Prester/Lannister;Lady Joanna Lannister;legitimate
+Marla Prester/Lannister;Ser Stafford Lannister;legitimate
+Ser Jason Lannister, brother of Tytos;Damon Lannister, son of Jason;legitimate
+Alys Stackspear/Lannister;Damon Lannister, son of Jason;legitimate
+Damon Lannister, son of Jason;Ser Damion Lannister;legitimate
+Ella Lannister;Ser Damion Lannister;legitimate
+Ser Damion Lannister;Ser Lucion Lannister;legitimate
+Ser Damion Lannister;Lady Lanna Lannister/Jast;legitimate
+Shiera Crakehall/Lannister;Ser Lucion Lannister;legitimate
+Shiera Crakehall/Lannister;Lady Lanna Lannister/Jast;legitimate
+Lord Tytos Lannister;Lord Tywin Lannister;legitimate
+Lord Tytos Lannister;Ser Kevan Lannister;legitimate
+Lord Tytos Lannister;Lady Genna Lannister/Frey ;legitimate
+Lord Tytos Lannister;Ser Tygett Lannister, Tyg;legitimate
+Lord Tytos Lannister;Gerion Lannister, Gery;legitimate
+Lady Jeyne Marbrand/Lannister;Lord Tywin Lannister;legitimate
+Lady Jeyne Marbrand/Lannister;Ser Kevan Lannister;legitimate
+Lady Jeyne Marbrand/Lannister;Lady Genna Lannister/Frey ;legitimate
+Lady Jeyne Marbrand/Lannister;Ser Tygett Lannister, Tyg;legitimate
+Lady Jeyne Marbrand/Lannister;Gerion Lannister, Gery;legitimate
+Ser Davos Seaworth, The Onion Knight;Allard Seaworth;legitimate
+Ser Davos Seaworth, The Onion Knight;Dale Seaworth;legitimate
+Ser Davos Seaworth, The Onion Knight;Maric Seaworth;legitimate
+Ser Davos Seaworth, The Onion Knight;Matthos Seaworth;legitimate
+Ser Davos Seaworth, The Onion Knight;Devan Seaworth;legitimate
+Ser Davos Seaworth, The Onion Knight;Stannis Seaworth;legitimate
+Ser Davos Seaworth, The Onion Knight;Steffon Seaworth;legitimate
+Lady Marya Seaworth;Allard Seaworth;legitimate
+Lady Marya Seaworth;Dale Seaworth;legitimate
+Lady Marya Seaworth;Maric Seaworth;legitimate
+Lady Marya Seaworth;Matthos Seaworth;legitimate
+Lady Marya Seaworth;Devan Seaworth;legitimate
+Lady Marya Seaworth;Stannis Seaworth;legitimate
+Lady Marya Seaworth;Steffon Seaworth;legitimate
+Leobald Tallhart;Beren Tallhart;legitimate
+Leobald Tallhart;Brandon Tallhart;legitimate
+Berena Hornwood/Tallhart;Beren Tallhart;legitimate
+Berena Hornwood/Tallhart;Brandon Tallhart;legitimate
+Lady Sybelle Locke/Glover;Gawen Glover;legitimate
+Lady Sybelle Locke/Glover;Erena Glover;legitimate
+Robett Glover;Gawen Glover;legitimate
+Robett Glover;Erena Glover;legitimate
+Lord Alester Florent;Alekyne Florent;legitimate
+Lord Alester Florent;Lady Melessa Florent/Tarly;legitimate
+Lord Alester Florent;Lady Rhea Florent/Hightower;legitimate
+Lady Melara Crane/Florent;Alekyne Florent;legitimate
+Lady Melara Crane/Florent;Lady Melessa Florent/Tarly;legitimate
+Lady Melara Crane/Florent;Lady Rhea Florent/Hightower;legitimate
+Lady Melessa Florent/Tarly;Samwell Tarly;legitimate
+Lady Melessa Florent/Tarly;Talla Tarly;legitimate
+Lady Melessa Florent/Tarly;Dickon Tarly;legitimate
+Lord Randyll Tarly;Samwell Tarly;legitimate
+Lord Randyll Tarly;Talla Tarly;legitimate
+Lord Randyll Tarly;Dickon Tarly;legitimate
+Ser Ryam Florent;Lady Selyse Florent/Baratheon;legitimate
+Ser Ryam Florent;Ser Imry Florent;legitimate
+Ser Ryam Florent;Ser Erren Florent;legitimate
+Ser Colin Florent;Delena Florent/Norcross;legitimate
+Ser Colin Florent;Maester Omer (Florent);legitimate
+Ser Colin Florent;Merrell Florent;legitimate
+Delena Florent/Norcross;Alester Norcross;legitimate
+Delena Florent/Norcross;Renly Norcross;legitimate
+Ser Hosman Norcross;Alester Norcross;legitimate
+Ser Hosman Norcross;Renly Norcross;legitimate
+Lord Walder Frey, The Late Lord Frey;Ser Stevron Frey;legitimate
+Lord Walder Frey, The Late Lord Frey;Lord Emmon Frey;legitimate
+Lord Walder Frey, The Late Lord Frey;Ser Aenys Frey;legitimate
+Lord Walder Frey, The Late Lord Frey;Perriane Frey/Haigh, Ser Harys's mother;legitimate
+Lady Perra Royce/Frey;Ser Stevron Frey;legitimate
+Lady Perra Royce/Frey;Lord Emmon Frey;legitimate
+Lady Perra Royce/Frey;Ser Aenys Frey;legitimate
+Lady Perra Royce/Frey;Perriane Frey/Haigh, Ser Harys's mother;legitimate
+Ser Stevron Frey;Ser Ryman Frey;legitimate
+Corenna Swann/Frey;Ser Ryman Frey;legitimate
+Ser Stevron Frey;Aegon Frey, Jinglebell;legitimate
+Ser Stevron Frey;Maegelle Frey/Vance;legitimate
+Jeyne Lydden/Frey;Aegon Frey, Jinglebell;legitimate
+Jeyne Lydden/Frey;Maegelle Frey/Vance;legitimate
+Ser Stevron Frey;Walton Frey, Son of Stevron;legitimate
+Marsella Waynwood/Frey;Walton Frey, Son of Stevron;legitimate
+Ser Ryman Frey;Edwyn Frey;legitimate
+Ser Ryman Frey;Petyr Frey, Petyr Pimple;legitimate
+Ser Ryman Frey;Walder Frey, Black Walder;legitimate
+Edwyn Frey;Walda Frey, Daughter of Edwyn;legitimate
+Janyce Hunter/Frey;Walda Frey, Daughter of Edwyn;legitimate
+Petyr Frey, Petyr Pimple;Perra Frey, Daughter of Petyr;legitimate
+Mylenda Caron/Frey;Perra Frey, Daughter of Petyr;legitimate
+Maegelle Frey/Vance;Marianne Vance;legitimate
+Maegelle Frey/Vance;Walder Vance;legitimate
+Maegelle Frey/Vance;Patrek Vance;legitimate
+Ser Dafyn Vance;Marianne Vance;legitimate
+Ser Dafyn Vance;Walder Vance;legitimate
+Ser Dafyn Vance;Patrek Vance;legitimate
+Walton Frey, Son of Stevron;Steffon Frey, Son of Walton, The Sweet;legitimate
+Walton Frey, Son of Stevron;Walda Frey, Fair Walda;legitimate
+Walton Frey, Son of Stevron;Bryan Frey;legitimate
+Deana Hardyng/Frey;Steffon Frey, Son of Walton, The Sweet;legitimate
+Deana Hardyng/Frey;Walda Frey, Fair Walda;legitimate
+Deana Hardyng/Frey;Bryan Frey;legitimate
+Ser Aenys Frey;Aegon Frey, Son of Aenys, Bloodborn;legitimate
+Ser Aenys Frey;Rhaegar Frey, Son of Aenys;legitimate
+Tyana Wylde/Frey;Aegon Frey, Son of Aenys, Bloodborn;legitimate
+Tyana Wylde/Frey;Rhaegar Frey, Son of Aenys;legitimate
+Rhaegar Frey, Son of Aenys;Robert Frey, Son of Rhaegar Frey;legitimate
+Rhaegar Frey, Son of Aenys;Walda Frey, White Walda;legitimate
+Rhaegar Frey, Son of Aenys;Jonos Frey;legitimate
+Jeyne Beesbury/Frey, Wife of Rhaegar;Robert Frey, Son of Rhaegar Frey;legitimate
+Jeyne Beesbury/Frey, Wife of Rhaegar;Walda Frey, White Walda;legitimate
+Jeyne Beesbury/Frey, Wife of Rhaegar;Jonos Frey;legitimate
+Perriane Frey/Haigh, Ser Harys's mother;Ser Harys Haigh;legitimate
+Perriane Frey/Haigh, Ser Harys's mother;Ser Donnel Haigh;legitimate
+Perriane Frey/Haigh, Ser Harys's mother;Alyn Haigh;legitimate
+Ser Leslyn Haigh;Ser Harys Haigh;legitimate
+Ser Leslyn Haigh;Ser Donnel Haigh;legitimate
+Ser Leslyn Haigh;Alyn Haigh;legitimate
+Ser Harys Haigh;Walder Haigh;legitimate
+Lord Walder Frey, The Late Lord Frey;Ser Jared Frey;legitimate
+Lord Walder Frey, The Late Lord Frey;Septon Luceon (Frey);legitimate
+Lady Cyrenna Swann/Frey;Ser Jared Frey;legitimate
+Lady Cyrenna Swann/Frey;Septon Luceon (Frey);legitimate
+Ser Jared Frey;Ser Tytos Frey;legitimate
+Ser Jared Frey;Kyra Frey/Goodbrook;legitimate
+Alys Frey;Ser Tytos Frey;legitimate
+Alys Frey;Kyra Frey/Goodbrook;legitimate
+Ser Tytos Frey;Zia Frey;legitimate
+Ser Tytos Frey;Zachery Frey;legitimate
+Zhoe Blanetree/Frey;Zia Frey;legitimate
+Zhoe Blanetree/Frey;Zachery Frey;legitimate
+Kyra Frey/Goodbrook;Walder Goodbrook;legitimate
+Kyra Frey/Goodbrook;Jeyne Goodbrook;legitimate
+Ser Garse Goodbrook;Walder Goodbrook;legitimate
+Ser Garse Goodbrook;Jeyne Goodbrook;legitimate
+Lord Walder Frey, The Late Lord Frey;Ser Hosteen Frey;legitimate
+Lord Walder Frey, The Late Lord Frey;Lady Lythene Frey/Vypren;legitimate
+Lord Walder Frey, The Late Lord Frey;Symond Frey;legitimate
+Lord Walder Frey, The Late Lord Frey;Ser Danwell Frey;legitimate
+Lord Walder Frey, The Late Lord Frey;Merrett Frey;legitimate
+Lord Walder Frey, The Late Lord Frey;Ser Geremy Frey;legitimate
+Lord Walder Frey, The Late Lord Frey;Ser Raymund Frey;legitimate
+Lady Amarei Crakehall/Frey;Ser Hosteen Frey;legitimate
+Lady Amarei Crakehall/Frey;Lady Lythene Frey/Vypren;legitimate
+Lady Amarei Crakehall/Frey;Symond Frey;legitimate
+Lady Amarei Crakehall/Frey;Ser Danwell Frey;legitimate
+Lady Amarei Crakehall/Frey;Merrett Frey;legitimate
+Lady Amarei Crakehall/Frey;Ser Geremy Frey;legitimate
+Lady Amarei Crakehall/Frey;Ser Raymund Frey;legitimate
+Ser Hosteen Frey;Ser Arwood Frey;legitimate
+Bellena Hawick/Frey;Ser Arwood Frey;legitimate
+Ser Arwood Frey;Ryella Frey, Daughter of Arwood;legitimate
+Ser Arwood Frey;Androw Frey;legitimate
+Ser Arwood Frey;Alyn Frey;legitimate
+Ser Arwood Frey;Hostella Frey;legitimate
+Ryella Royce/Frey;Ryella Frey, Daughter of Arwood;legitimate
+Ryella Royce/Frey;Androw Frey;legitimate
+Ryella Royce/Frey;Alyn Frey;legitimate
+Ryella Royce/Frey;Hostella Frey;legitimate
+Lady Lythene Frey/Vypren;Elyana Vypren/Wylde;legitimate
+Lady Lythene Frey/Vypren;Ser Damon Vypren;legitimate
+Lord Lucias Vypren;Elyana Vypren/Wylde;legitimate
+Lord Lucias Vypren;Ser Damon Vypren;legitimate
+Elyana Vypren/Wylde;Rickard Wylde;legitimate
+Ser Jon Wylde;Rickard Wylde;legitimate
+Symond Frey;Alesander Frey;legitimate
+Symond Frey;Alyx Frey;legitimate
+Symond Frey;Bradamar Frey;legitimate
+Betharios Frey, Of Braavos;Alesander Frey;legitimate
+Betharios Frey, Of Braavos;Alyx Frey;legitimate
+Betharios Frey, Of Braavos;Bradamar Frey;legitimate
+Merrett Frey;Lady Amerei Frey/Lannister, Gatehouse Ami;legitimate
+Merrett Frey;Lady Walda Frey/Bolton, Fat Walda;legitimate
+Merrett Frey;Marissa Frey;legitimate
+Merrett Frey;Walder Frey, Little Walder;legitimate
+Lady Mariya Darry/Frey;Lady Amerei Frey/Lannister, Gatehouse Ami;legitimate
+Lady Mariya Darry/Frey;Lady Walda Frey/Bolton, Fat Walda;legitimate
+Lady Mariya Darry/Frey;Marissa Frey;legitimate
+Lady Mariya Darry/Frey;Walder Frey, Little Walder;legitimate
+Ser Geremy Frey;Sandor Frey;legitimate
+Ser Geremy Frey;Cynthea Frey;legitimate
+Carolei Waynwood/Frey;Sandor Frey;legitimate
+Carolei Waynwood/Frey;Cynthea Frey;legitimate
+Ser Raymund Frey;Acolyte Robert Frey, Son of Raymund;legitimate
+Ser Raymund Frey;Malwyn Frey;legitimate
+Ser Raymund Frey;Serra Frey;legitimate
+Ser Raymund Frey;Sarra Frey;legitimate
+Ser Raymund Frey;Cersei Frey, Little Bee;legitimate
+Ser Raymund Frey;Jaime Frey;legitimate
+Ser Raymund Frey;Tywin Frey, son of Raymund;legitimate
+Beony Beesbury/Frey;Acolyte Robert Frey, Son of Raymund;legitimate
+Beony Beesbury/Frey;Malwyn Frey;legitimate
+Beony Beesbury/Frey;Serra Frey;legitimate
+Beony Beesbury/Frey;Sarra Frey;legitimate
+Beony Beesbury/Frey;Cersei Frey, Little Bee;legitimate
+Beony Beesbury/Frey;Jaime Frey;legitimate
+Beony Beesbury/Frey;Tywin Frey, son of Raymund;legitimate
+Lord Walder Frey, The Late Lord Frey;Lothar Frey, Lame Lothar;legitimate
+Lord Walder Frey, The Late Lord Frey;Ser Jammos Frey;legitimate
+Lord Walder Frey, The Late Lord Frey;Ser Whalen Frey;legitimate
+Lord Walder Frey, The Late Lord Frey;Morya Frey/Brax;legitimate
+Lord Walder Frey, The Late Lord Frey;Tyta Frey, The Maid;legitimate
+Lady Alyssa Blackwood/Frey;Lothar Frey, Lame Lothar;legitimate
+Lady Alyssa Blackwood/Frey;Ser Jammos Frey;legitimate
+Lady Alyssa Blackwood/Frey;Ser Whalen Frey;legitimate
+Lady Alyssa Blackwood/Frey;Morya Frey/Brax;legitimate
+Lady Alyssa Blackwood/Frey;Tyta Frey, The Maid;legitimate
+Lothar Frey, Lame Lothar;Tysane Frey;legitimate
+Lothar Frey, Lame Lothar;Walda Frey, Daughter of Lothar;legitimate
+Lothar Frey, Lame Lothar;Emberlei Frey;legitimate
+Lothar Frey, Lame Lothar;Leana Frey;legitimate
+Leonella Lefford/Frey;Tysane Frey;legitimate
+Leonella Lefford/Frey;Walda Frey, Daughter of Lothar;legitimate
+Leonella Lefford/Frey;Emberlei Frey;legitimate
+Leonella Lefford/Frey;Leana Frey;legitimate
+Ser Jammos Frey;Walder Frey, Big Walder;legitimate
+Ser Jammos Frey;Dickon Frey;legitimate
+Ser Jammos Frey;Mathis Frey;legitimate
+Sallei Paege/Frey;Walder Frey, Big Walder;legitimate
+Sallei Paege/Frey;Dickon Frey;legitimate
+Sallei Paege/Frey;Mathis Frey;legitimate
+Ser Whalen Frey;Hoster Frey;legitimate
+Ser Whalen Frey;Merianne Frey, Merry;legitimate
+Sylwa Paege/Frey;Hoster Frey;legitimate
+Sylwa Paege/Frey;Merianne Frey, Merry;legitimate
+Morya Frey/Brax;Robert Brax, Son of Flement;legitimate
+Morya Frey/Brax;Walder Brax;legitimate
+Morya Frey/Brax;Jon Brax;legitimate
+Ser Flement Brax;Robert Brax, Son of Flement;legitimate
+Ser Flement Brax;Walder Brax;legitimate
+Ser Flement Brax;Jon Brax;legitimate
+Lord Walder Frey, The Late Lord Frey;Ser Perwyn Frey;legitimate
+Lord Walder Frey, The Late Lord Frey;Ser Benfrey Frey;legitimate
+Lord Walder Frey, The Late Lord Frey;Maester Willamen (Frey);legitimate
+Lord Walder Frey, The Late Lord Frey;Olyvar Frey;legitimate
+Lord Walder Frey, The Late Lord Frey;Roslin Frey/Tully;legitimate
+Lady Bethany Rosby/Frey;Ser Perwyn Frey;legitimate
+Lady Bethany Rosby/Frey;Ser Benfrey Frey;legitimate
+Lady Bethany Rosby/Frey;Maester Willamen (Frey);legitimate
+Lady Bethany Rosby/Frey;Olyvar Frey;legitimate
+Lady Bethany Rosby/Frey;Roslin Frey/Tully;legitimate
+Ser Benfrey Frey;Della Frey, Deaf Della;legitimate
+Ser Benfrey Frey;Osmund Frey;legitimate
+Jyanna Frey;Della Frey, Deaf Della;legitimate
+Jyanna Frey;Osmund Frey;legitimate
+Lord Walder Frey, The Late Lord Frey;Arwyn Frey;legitimate
+Lord Walder Frey, The Late Lord Frey;Wendel Frey;legitimate
+Lord Walder Frey, The Late Lord Frey;Colmar Frey;legitimate
+Lord Walder Frey, The Late Lord Frey;Shirei Frey;legitimate
+Lord Walder Frey, The Late Lord Frey;Elmar Frey;legitimate
+Lord Walder Frey, The Late Lord Frey;Waltyr Frey, Tyr;legitimate
+Lady Annara Farring/Frey;Arwyn Frey;legitimate
+Lady Annara Farring/Frey;Wendel Frey;legitimate
+Lady Annara Farring/Frey;Colmar Frey;legitimate
+Lady Annara Farring/Frey;Shirei Frey;legitimate
+Lady Annara Farring/Frey;Elmar Frey;legitimate
+Lady Annara Farring/Frey;Waltyr Frey, Tyr;legitimate
+Lord Walder Frey, The Late Lord Frey;Walder Rivers, Bastard Walder;bastard
+Lord Walder Frey, The Late Lord Frey;Maester Melwys (Rivers);bastard
+Lord Walder Frey, The Late Lord Frey;Jeyne Rivers;bastard
+Lord Walder Frey, The Late Lord Frey;Ronel Rivers;bastard
+Lord Walder Frey, The Late Lord Frey;Mellara Rivers;bastard
+Lord Walder Frey, The Late Lord Frey;Martyn Rivers;bastard
+Lord Walder Frey, The Late Lord Frey;Ryger Rivers;bastard
+Walder Rivers, Bastard Walder;Walda Rivers, sister of Aemon Rivers;bastard
+Walder Rivers, Bastard Walder;Ser Aemon Rivers;bastard
+Ser Aemon Rivers;Walda Rivers, daughter of Aemon Rivers;bastard
+Lady Tanda Stokeworth;Falyse Stokeworth;legitimate
+Lady Tanda Stokeworth;Lady Lollys Stokeworth;legitimate
+Lady Lollys Stokeworth;Tyrion Tanner;bastard
+Lord Gawen Westerling;Rollam Westerling;legitimate
+Lord Gawen Westerling;Ser Raynald Westerling;legitimate
+Lord Gawen Westerling;Queen Jeyne Westerling/Stark;legitimate
+Lord Gawen Westerling;Eleyna Westerling;legitimate
+Lady Sybell Spicer/Westerling;Rollam Westerling;legitimate
+Lady Sybell Spicer/Westerling;Ser Raynald Westerling;legitimate
+Lady Sybell Spicer/Westerling;Queen Jeyne Westerling/Stark;legitimate
+Lady Sybell Spicer/Westerling;Eleyna Westerling;legitimate
+Lord Halys Hornwood;Daryn Hornwood;legitimate
+Lady Donella Manderly/Hornwood;Daryn Hornwood;legitimate
+Lord Wyman Manderly;Ser Wylis Manderly;legitimate
+Lord Wyman Manderly;Ser Wendel Manderly;legitimate
+Ser Wylis Manderly;Wynafryd Manderly;legitimate
+Ser Wylis Manderly;Wylla Manderly;legitimate
+Leona Woolfield/Manderly;Wynafryd Manderly;legitimate
+Leona Woolfield/Manderly;Wylla Manderly;legitimate
+Lord Rodrik Ryswell;Lady Bethany Ryswell/Bolton;legitimate
+Lord Rodrik Ryswell;Lady Barbrey Ryswell/Dustin;legitimate
+Lord Rodrik Ryswell;Roger Ryswell;legitimate
+Lord Rodrik Ryswell;Rickard Ryswell;legitimate
+Lord Rodrik Ryswell;Roose Ryswell;legitimate
+Lady Bethany Ryswell/Bolton;Domeric Bolton;legitimate
+Lord Roose Bolton;Domeric Bolton;legitimate
+Lord Roose Bolton;Lord Ramsay Bolton;legitimate
+Lady Anya Waynwood;Ser Morton Waynwood;legitimate
+Lady Anya Waynwood;Ser Donnel Waynwood;legitimate
+Lady Anya Waynwood;Ser Wallace Waynwood;legitimate
+Ser Morton Waynwood;Ser Roland Waynwood, a grandson of Lady Anya Waynwood;legitimate
+Lord Jason Mallister;Patrek Mallister;legitimate
+Lord Selwyn Tarth, The Evenstar;Brienne Tarth;legitimate
+Lord Leyton Hightower;Ser Baelor Hightower, Breakwind, Brightsmile;legitimate
+Lord Leyton Hightower;Malora Hightower, The Mad Maid;legitimate
+Lord Leyton Hightower;Ser Garth Hightower, Greysteel;legitimate
+Lord Leyton Hightower;Lady Alerie Hightower/Tyrell;legitimate
+Lord Leyton Hightower;Leyla Hightower/Cupps;legitimate
+Lord Leyton Hightower;Denyse Hightower/Redwyne;legitimate
+Lord Leyton Hightower;Lady Alysanne Hightower/Ambrose;legitimate
+Lord Leyton Hightower;Ser Gunthor Hightower;legitimate
+Lord Leyton Hightower;Ser Humfrey Hightower;legitimate
+Lord Leyton Hightower;Lynesse Hightower/Mormont;legitimate
+Denyse Hightower/Redwyne;Denys Redwyne;legitimate
+Ser Desmond Redwyne;Denys Redwyne;legitimate
+Lady Alysanne Hightower/Ambrose;Alyn Ambrose;legitimate
+Lord Arthur Ambrose;Alyn Ambrose;legitimate
