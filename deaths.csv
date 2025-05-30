@@ -1,0 +1,209 @@
+start_node;end_node;period;type
+Ser Waymar Royce;Will;A Game of Thrones;direct
+Lord Eddard Stark;Gared;A Game of Thrones;direct
+Lady Lysa Tully/Arryn, Baelish;Lord Jon Arryn;A Game of Thrones;direct
+Lord Petyr Baelish, Littlefinger;Lord Jon Arryn;A Game of Thrones;ordered
+Grand Maester Pycelle;Lord Jon Arryn;A Game of Thrones;indirect
+Sandor Clegane, The Hound;Mycah;A Game of Thrones;direct
+King Joffrey I Baratheon;Mycah;A Game of Thrones;ordered
+Ser Gregor Clegane, The Mountain that Rides;Ser Hugh, Of the Vale;A Game of Thrones;combat
+Bronn;Chiggen;A Game of Thrones;mercy
+Ser Jaime Lannister, Kingslayer;Heward;A Game of Thrones;ordered
+Ser Jaime Lannister, Kingslayer;Wyl;A Game of Thrones;ordered
+Ser Jaime Lannister, Kingslayer;Jory Cassel;A Game of Thrones;ordered
+Prince Theon Greyjoy;Stiv;A Game of Thrones;direct
+Lord Eddard Stark;Tregar;A Game of Thrones;direct
+Bronn;Ser Vardis Egen;A Game of Thrones;combat
+Khal Drogo;Prince Viserys III Targaryen;A Game of Thrones;direct
+Queen Cersei Lannister;King Robert I Baratheon;A Game of Thrones;ordered
+Lord Lancel Lannister;King Robert I Baratheon;A Game of Thrones;indirect
+Lord Petyr Baelish, Littlefinger;Tomard, Fat Tom;A Game of Thrones;indirect
+Queen Cersei Lannister;Tomard, Fat Tom;A Game of Thrones;indirect
+Lord Janos Slynt;Varly;A Game of Thrones;direct
+Lord Petyr Baelish, Littlefinger;Varly;A Game of Thrones;indirect
+Queen Cersei Lannister;Varly;A Game of Thrones;indirect
+Sandor Clegane, The Hound;Cayn;A Game of Thrones;direct
+Lord Petyr Baelish, Littlefinger;Cayn;A Game of Thrones;indirect
+Queen Cersei Lannister;Cayn;A Game of Thrones;indirect
+Lord Petyr Baelish, Littlefinger;Desmond;A Game of Thrones;indirect
+Queen Cersei Lannister;Desmond;A Game of Thrones;indirect
+Lord Petyr Baelish, Littlefinger;Hullen;A Game of Thrones;indirect
+Queen Cersei Lannister;Hullen;A Game of Thrones;indirect
+Ser Meryn Trant;Syrio Forel;A Game of Thrones;direct
+Lord Tywin Lannister;Masha Heddle;A Game of Thrones;ordered
+Jafer Flowers;Ser Jaremy Rykker;A Game of Thrones;direct
+Khal Drogo;Khal Ogo;A Game of Thrones;direct
+Khal Drogo;Khalakka Fogo;A Game of Thrones;direct
+Ser Jaime Lannister, Kingslayer;Eddard Karstark;A Game of Thrones;direct
+Ser Jaime Lannister, Kingslayer;Torrhen Karstark;A Game of Thrones;direct
+Ser Jaime Lannister, Kingslayer;Daryn Hornwood;A Game of Thrones;direct
+Qotho;Quaro;A Game of Thrones;direct
+Ser Jorah Mormont;Qotho;A Game of Thrones;direct
+Rakharo;Haggo;A Game of Thrones;direct
+Jhogo;Haggo;A Game of Thrones;direct
+Aggo;Cohollo;A Game of Thrones;direct
+Ser Ilyn Payne;Lord Eddard Stark;A Game of Thrones;direct
+King Joffrey I Baratheon;Lord Eddard Stark;A Game of Thrones;ordered
+Mago;Eroeh;A Game of Thrones;direct
+Khal Jhaqo;Eroeh;A Game of Thrones;direct
+Queen Daenerys I Targaryen;Khal Drogo;A Game of Thrones;mercy
+Queen Daenerys I Targaryen;Mirri Maz Duur;A Game of Thrones;direct
+Maester Cressen;Maester Cressen;A Clash of Kings;direct
+Melisandre;Maester Cressen;A Clash of Kings;indirect
+Allar Deem, 1st of Janos Slynt's most ardent supporters;Barra;A Clash of Kings;direct
+Rafford, Raff the Sweetling;Lommy, Greenhands;A Clash of Kings;direct
+King Stannis I Baratheon;King Renly I Baratheon;A Clash of Kings;indirect
+Melisandre;King Renly I Baratheon;A Clash of Kings;indirect
+Ser Loras Tyrell, Knight of Flowers;Ser Robar Royce;A Clash of Kings;direct
+Ser Loras Tyrell, Knight of Flowers;Ser Emmon Cuy, The Yellow;A Clash of Kings;direct
+Lord Rickard Karstark;Ser Stafford Lannister;A Clash of Kings;direct
+Jaqen H'ghar;Chiswyck;A Clash of Kings;direct
+Aeron Greyjoy, Damphair;Benfred Tallhart;A Clash of Kings;direct
+Jaqen H'ghar;Weese;A Clash of Kings;direct
+Qhorin, Halfhand;Alfyn, Crowkiller;A Clash of Kings;direct
+King Stannis I Baratheon;Ser Cortnay Penrose;A Clash of Kings;indirect
+Melisandre;Ser Cortnay Penrose;A Clash of Kings;indirect
+Lord Ramsay Bolton;Lady Donella Manderly/Hornwood;A Clash of Kings;indirect
+Prince Theon Greyjoy;Alebelly;A Clash of Kings;indirect
+Stygg;Mikken;A Clash of Kings;direct
+Prince Theon Greyjoy;Septon Chayle;A Clash of Kings;direct
+Osha;Drennan;A Clash of Kings;direct
+Lord Ramsay Bolton;Gelmarr, The Grim;A Clash of Kings;direct
+Lord Ramsay Bolton;Aggar;A Clash of Kings;direct
+Lord Ramsay Bolton;Gynir, Rednose;A Clash of Kings;direct
+Prince Theon Greyjoy;Farlen, the kennelmaster;A Clash of Kings;direct
+Tyrion Lannister, The Imp;Ser Imry Florent;A Clash of Kings;indirect
+Tyrion Lannister, The Imp;Matthos Seaworth;A Clash of Kings;indirect
+Tyrion Lannister, The Imp;Maric Seaworth;A Clash of Kings;indirect
+Tyrion Lannister, The Imp;Lord Lucos Chyttering, Little Lucos;A Clash of Kings;indirect
+Tyrion Lannister, The Imp;Lord Monford Velaryon;A Clash of Kings;indirect
+Podrick Payne;Ser Mandon Moore;A Clash of Kings;direct
+Lord Philip Foote;Lord Bryce Caron;A Clash of Kings;direct
+Lord Garlan Tyrell;Ser Guyard Morrigen, The Green;A Clash of Kings;direct
+Lady Selyse Florent/Baratheon;Lord Guncer Sunglass;A Clash of Kings;ordered
+Melisandre;Lord Guncer Sunglass;A Clash of Kings;indirect
+Lord Roose Bolton;Maester Tothmure;A Clash of Kings;direct
+Lord Ramsay Bolton;Ser Rodrik Cassel;A Clash of Kings;direct
+Lord Commander Jon Snow;Qhorin, Halfhand;A Clash of Kings;direct
+Osha;Maester Luwin;A Clash of Kings;mercy
+Lord Rickard Karstark;Delp;A Storm of Swords;direct
+Lord Rickard Karstark;Elwood;A Storm of Swords;direct
+Lord Rickard Karstark;Tion Frey;A Storm of Swords;direct
+Lord Rickard Karstark;Willem Lannister;A Storm of Swords;direct
+King Robb Stark;Lord Rickard Karstark;A Storm of Swords;direct
+Queen Daenerys I Targaryen;Kraznys mo Nakloz;A Storm of Swords;ordered
+Rakharo;Grazdan mo Ullhor;A Storm of Swords;direct
+Bronn;Symon, Silver Tongue;A Storm of Swords;direct
+Dirk;Craster;A Storm of Swords;direct
+Garth, Of Greenaway;Garth, Of Oldtown;A Storm of Swords;direct
+Ollo, Lophand;Lord Commander Jeor Mormont, The Old Bear;A Storm of Swords;direct
+King Euron III Greyjoy, Crow's Eye;King Balon IX Greyjoy;A Storm of Swords;ordered
+King Euron III Greyjoy, Crow's Eye;Lord Sawane Botley;A Storm of Swords;direct
+Daario Naharis;Prendahl na Ghezn;A Storm of Swords;direct
+Daario Naharis;Sallor, The Bald;A Storm of Swords;direct
+Lord Tywin Lannister;Lord Robin Flint;A Storm of Swords;ordered
+Lord Tywin Lannister;Ser Wendel Manderly;A Storm of Swords;ordered
+Lord Tywin Lannister;Lucas Blackwood;A Storm of Swords;ordered
+Lord Tywin Lannister;Ser Donnel Locke;A Storm of Swords;ordered
+Lord Tywin Lannister;Owen Norrey;A Storm of Swords;ordered
+Lord Tywin Lannister;Dacey Mormont;A Storm of Swords;ordered
+Lord Tywin Lannister;Jon Umber, Smalljon;A Storm of Swords;ordered
+Lord Tywin Lannister;King Robb Stark;A Storm of Swords;ordered
+Lord Tywin Lannister;Lady Catelyn Tully/Stark;A Storm of Swords;ordered
+Lord Walder Frey, The Late Lord Frey;Lord Robin Flint;A Storm of Swords;ordered
+Lord Walder Frey, The Late Lord Frey;Ser Wendel Manderly;A Storm of Swords;ordered
+Lord Walder Frey, The Late Lord Frey;Lucas Blackwood;A Storm of Swords;ordered
+Lord Walder Frey, The Late Lord Frey;Ser Donnel Locke;A Storm of Swords;ordered
+Lord Walder Frey, The Late Lord Frey;Owen Norrey;A Storm of Swords;ordered
+Lord Walder Frey, The Late Lord Frey;Dacey Mormont;A Storm of Swords;ordered
+Lord Walder Frey, The Late Lord Frey;Jon Umber, Smalljon;A Storm of Swords;ordered
+Lord Walder Frey, The Late Lord Frey;King Robb Stark;A Storm of Swords;ordered
+Lord Walder Frey, The Late Lord Frey;Lady Catelyn Tully/Stark;A Storm of Swords;ordered
+Lord Roose Bolton;Lord Robin Flint;A Storm of Swords;ordered
+Lord Roose Bolton;Ser Wendel Manderly;A Storm of Swords;ordered
+Lord Roose Bolton;Lucas Blackwood;A Storm of Swords;ordered
+Lord Roose Bolton;Ser Donnel Locke;A Storm of Swords;ordered
+Lord Roose Bolton;Owen Norrey;A Storm of Swords;ordered
+Lord Roose Bolton;Dacey Mormont;A Storm of Swords;ordered
+Lord Roose Bolton;Jon Umber, Smalljon;A Storm of Swords;ordered
+Lord Roose Bolton;King Robb Stark;A Storm of Swords;direct
+Lord Roose Bolton;Lady Catelyn Tully/Stark;A Storm of Swords;ordered
+Lady Catelyn Tully/Stark;Aegon Frey, Jinglebell;A Storm of Swords;direct
+Ser Hosteen Frey;Lucas Blackwood;A Storm of Swords;direct
+Ser Ryman Frey;Dacey Mormont;A Storm of Swords;direct
+Ser Ryman Frey;Lady Catelyn Tully/Stark;A Storm of Swords;direct
+Ygritte;Dick Follard, Deaf Dick Follard;A Storm of Swords;direct
+Belwas, Strong Belwas;Oznak zo Pahl, the Champion of Meereen;A Storm of Swords;direct
+Lady Olenna Redwyne/Tyrell, Queen of Thorns;King Joffrey I Baratheon;A Storm of Swords;direct
+Lord Petyr Baelish, Littlefinger;King Joffrey I Baratheon;A Storm of Swords;indirect
+Lord Petyr Baelish, Littlefinger;Ser Dontos Hollard;A Storm of Swords;ordered
+Ser Gregor Clegane, The Mountain that Rides;Vargo Hoat;A Storm of Swords;direct
+Ser Gregor Clegane, The Mountain that Rides;Prince Oberyn Martell;A Storm of Swords;direct
+Prince Oberyn Martell;Ser Gregor Clegane, The Mountain that Rides;A Storm of Swords;direct
+Melisandre;Orell;A Storm of Swords;direct
+Ser Richard Horpe;Dormund, Son of Tormund;A Storm of Swords;direct
+Sandor Clegane, The Hound;Polliver;A Storm of Swords;direct
+Princess Arya Stark;Nicknamed, The Tickler;A Storm of Swords;direct
+Tyrion Lannister, The Imp;Shae;A Storm of Swords;direct
+Tyrion Lannister, The Imp;Lord Tywin Lannister;A Storm of Swords;direct
+Ser Harlan Hunter;Lord Eon Hunter;A Storm of Swords;direct
+Lord Petyr Baelish, Littlefinger;Lady Lysa Tully/Arryn, Baelish;A Storm of Swords;direct
+Shagwell, The Fool;Dick Crabb, Nimble Dick;A Feast for Crows;direct
+Brienne Tarth;Pyg;A Feast for Crows;direct
+Brienne Tarth;Timeon the Dornishman;A Feast for Crows;direct
+Brienne Tarth;Shagwell, The Fool;A Feast for Crows;direct
+Qyburn;Senelle;A Feast for Crows;direct
+Areo Hotah;Ser Arys Oakheart;A Feast for Crows;direct
+King Euron III Greyjoy, Crow's Eye;Lord Baelor Blacktyde;A Feast for Crows;ordered
+Victarion Greyjoy;Ser Talbert Serry;A Feast for Crows;direct
+Bronn;Ser Balman Byrch;A Feast for Crows;direct
+Qyburn;Falyse Stokeworth;A Feast for Crows;direct
+Princess Arya Stark;Dareon, Lover, the Black Singer;A Feast for Crows;direct
+Brienne Tarth;Rorge;A Feast for Crows;direct
+Gendry;Biter;A Feast for Crows;direct
+Lord Commander Jon Snow;Lord Janos Slynt;A Dance with Dragons;direct
+Nicknamed, Coldhands;Dirk;A Dance with Dragons;direct
+Nicknamed, Coldhands;Ollo, Lophand;A Dance with Dragons;direct
+Nicknamed, Coldhands;Karl, Clubfoot Karl;A Dance with Dragons;direct
+Melisandre;Lord Alester Florent;A Dance with Dragons;direct
+Lord Ramsay Bolton;Kyra;A Dance with Dragons;direct
+Melisandre;NIcknamed, The Lord of Bones, Rattleshirt;A Dance with Dragons;direct
+Prince Theon Greyjoy;Ralf Kenning;A Dance with Dragons;mercy
+Adrack Humble;Dagon Codd;A Dance with Dragons;direct
+Lord Ramsay Bolton;Adrack Humble;A Dance with Dragons;direct
+Nicknamed, The Weeper, the Weeping Man;Jack Bulwer, Black Jack Bulwer;A Dance with Dragons;direct
+Nicknamed, The Weeper, the Weeping Man;Hal, Hairy Hal;A Dance with Dragons;direct
+Nicknamed, The Weeper, the Weeping Man;Garth, Greyfeather;A Dance with Dragons;direct
+Lord Wyman Manderly;Ser Jared Frey;A Dance with Dragons;direct
+Lord Wyman Manderly;Symond Frey;A Dance with Dragons;direct
+Lord Wyman Manderly;Rhaegar Frey, Son of Aenys;A Dance with Dragons;direct
+Lord Ramsay Bolton;Luton;A Dance with Dragons;direct
+Tormund, Giantsbane;Torwynd, The Tame;A Dance with Dragons;direct
+Victarion Greyjoy;Maester Kerwin;A Dance with Dragons;direct
+Tyrion Lannister, The Imp;Nurse;A Dance with Dragons;direct
+Bloodbeard;Captain Groleo;A Dance with Dragons;direct
+Ser Barristan Selmy;Khrazz;A Dance with Dragons;direct
+Lord Ramsay Bolton;Rowan;A Dance with Dragons;direct
+Lord Ramsay Bolton;Myrtle;A Dance with Dragons;direct
+Lord Ramsay Bolton;Squirrel;A Dance with Dragons;direct
+Lord Ramsay Bolton;Willow, Willow Witch-eye;A Dance with Dragons;direct
+Lord Ramsay Bolton;Frenya;A Dance with Dragons;direct
+Bowen Marsh, the Old Pomegranate;Lord Commander Jon Snow;A Dance with Dragons;direct
+Wick Wittlestick;Lord Commander Jon Snow;A Dance with Dragons;direct
+Varys, The Spider;Grand Maester Pycelle;A Dance with Dragons;direct
+Varys, The Spider;Ser Kevan Lannister;A Dance with Dragons;direct
+King Aerys II Targaryen, The Mad King;Lord Rickard Stark;Robert's rebellion;direct
+King Aerys II Targaryen, The Mad King;Brandon Stark, Brother of Eddard;Robert's rebellion;direct
+King Robert I Baratheon;Marq Grafton;Robert's rebellion;direct
+Lord Jon Connington, Griff;Ser Denys Arryn;Robert's rebellion;direct
+King Robert I Baratheon;Prince Rhaegar Targaryen;Robert's rebellion;direct
+King Aerys II Targaryen, The Mad King;Lord Qarlton Chelsted;Robert's rebellion;direct
+Ser Jaime Lannister, Kingslayer;King Aerys II Targaryen, The Mad King;Robert's rebellion;direct
+Ser Jaime Lannister, Kingslayer;Lord Rossart;Robert's rebellion;direct
+Ser Gregor Clegane, The Mountain that Rides;Princess Elia Martell;Robert's rebellion;direct
+Ser Gregor Clegane, The Mountain that Rides;Prince Aegon Targaryen;Robert's rebellion;direct
+Ser Amory Lorch;Princess Rhaenys Targaryen, daughter of Rhaegar;Robert's rebellion;direct
+Ser Jaime Lannister, Kingslayer;Wisdom Garigus;Robert's rebellion;direct
+Ser Jaime Lannister, Kingslayer;Wisdom Belis;Robert's rebellion;direct
+Lord Eddard Stark;Ser Arthur Dayne, Sword of the Morning;Robert's rebellion;direct
+Lord Howland Reed;Ser Arthur Dayne, Sword of the Morning;Robert's rebellion;indirect
