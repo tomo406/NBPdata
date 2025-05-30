@@ -1229,7 +1229,6 @@ A Storm of Swords;441;Jon X;Jon Snow;Torwynd, The Tame;M;D, W;?;300 AC;Free Folk
 A Storm of Swords;441;Jon X;Jon Snow;Dryn, Son of Tormund;M;A;Around 290 AC;;Free Folk;;Dryn;;;;
 A Storm of Swords;447;Jon X;Jon Snow;Quenn;M;U;?;;Free Folk;;Quenn;;;;
 A Storm of Swords;453;Arya XIII;Arya Stark;Jeyne Heddle, Long Jeyne;F;A;281 or 282 AC;;Rivermen;;Jeyne;Heddle;;Long Jeyne;
-A Storm of Swords;454;Arya XIII;Arya Stark;Nicknamed, the Sarsfield squire;M;D;?;300 AC;Westermen;Squire;?;Sarsfield;;"""the pimply squire"", ""that Sarsfield boy""";
 A Storm of Swords;466;Arya XIII;Arya Stark;Captain Ternesio Terys;M;A;?;;Braavosi;Captain of the Titan's Daughter;Ternesio;Terys;;;
 A Storm of Swords;468;Samwell IV;Samwell Tarly;Aemon Steelsong, son of Mance Rayder;M;B;300 AC;;Free Folk;;Aemon;;;Aemon Steelsong, Aemon Battleborn, the wildling prince, born-in-battle, the little prince;
 A Storm of Swords;486;Jon XI;Jon Snow;Sigorn, Magnar of Thenn and founder of House Thenn;M;A;?;;Thenn;Magnar;Sigorn;Thenn;;;
@@ -1240,7 +1239,6 @@ A Storm of Swords;513;Jon XII;Jon Snow;Emmett, Iron Emmett;M;A;?;;?;Master-at-ar
 A Storm of Swords;525;Sansa VII;Sansa Stark;Ser Eustace Hunter;M;A;?;;Valemen;Ser;Eustace;Hunter;;;
 A Storm of Swords;525;Sansa VII;Sansa Stark;Ser Harlan Hunter;M;A;?;;Valemen;Ser;Harlan;Hunter;;;
 A Storm of Swords;525;Sansa VII;Sansa Stark;Lord Gilwood Hunter, Young Lord Hunter;M;A;250 - 254 AC;;Valemen;Ser, Lord;Gilwood;Hunter;;Young Lord Hunter;
-A Storm of Swords;552;Epilogue;Merrett Frey;"Black Robin from the song  ""The Day They Hanged Black Robin""";M;F;?;?;?;;Robin;;;Black Robin;
 A Storm of Swords;564;Appendix;N/A;Pyg;M;D;?;300 AC;?;;Pyg;;;;
 A Storm of Swords;564;Appendix;N/A;Nicknamed, Three Toes;M;U;?;;?;;?;;;Three Toes;
 A Storm of Swords;574;Appendix;N/A;Lord Triston Farwynd;M;A;?;;Ironborn;Lord;Triston;Farwynd;;;
@@ -1862,7 +1860,6 @@ A Dance with Dragons;306;Reek II;Theon Greyjoy;Alison, one of the girls who gave
 A Dance with Dragons;311;Jon V;Jon Snow;Ty;M;A;?;;?;;Ty;;;;
 A Dance with Dragons;316;Jon V;Jon Snow;Rory;M;A;?;;?;;Rory;;;;
 A Dance with Dragons;317;Jon V;Jon Snow;Butts, a chunky red-faced wildling;M;A;?;;Free Folk;;Butts;;;;
-A Dance with Dragons;325;Tyrion VI;Tyrion Lannister;Nicknamed, The Pisswater prince, a tanner son, the baby exchange with Aegon the son of Rhaegar Targaryen;M;H;282 AC;283 AC;Crownlander;;?;;;"The Pisswater Prince, ""Aegon Targaryen""";
 A Dance with Dragons;330;Tyrion VI;Tyrion Lannister;Qavo Nogarys;M;A;?;;Volantene;;Qavo;Nogarys;;;
 A Dance with Dragons;332;Tyrion VI;Tyrion Lannister;Benerro;M;A;?;;Volantene;High Priest, Red Priest;Benerro;;;;
 A Dance with Dragons;337;Tyrion VI;Tyrion Lannister;Nicknamed The Sunset girl, a redheaded slave-whore in the modest brothel;F;A;?;;?;;?;;;The Sunset Girl;
@@ -2028,8 +2025,6 @@ A Dance with Dragons;751;Jaime I;Jaime Lannister;Lacey;F;D;?;299 AC;Rivermen;;La
 A Dance with Dragons;771;Daenerys VIII;Daenerys Targaryen;Gylo Rhegan;M;A;?;;?;Commander of the Long Lances (mercenary company);Gylo;Rhegan;;;
 A Dance with Dragons;772;Daenerys VIII;Daenerys Targaryen;Hero;M;A;?;;?;Second-in-command of the Unsullied;Hero;;;;
 A Dance with Dragons;772;Daenerys VIII;Daenerys Targaryen;Marghaz zo Loraq;M;A;?;;Ghiscari;Great Master, Commander of the Brazen Beasts (Meereen's city watch);Marghaz;zo Loraq;;;
-A Dance with Dragons;792;Theon I;Theon Greyjoy;"Maisie, one the usual serving girl of Lady ""Arya""";F;A;?;;Northmen;;Maisie;;;;
-A Dance with Dragons;792;Theon I;Theon Greyjoy;"Jez, one the usual serving girl of Lady ""Arya""";F;A;?;;Northmen;;Jez;;;;
 A Dance with Dragons;810;Daenerys IX;Daenerys Targaryen;Harghaz, The Hero, the 3rd men with boar spear, he jumped on Drogon and later dies;M;D;?;300 AC;Ghiscari;;Harghaz;;;The Hero;
 A Dance with Dragons;864;The Iron Suitor;Victarion Greyjoy;Rodrik Sparr, The Vole;M;A;?;;Ironborn;Captain of Grief;Rodrik;Sparr;;The Vole;
 A Dance with Dragons;864;The Iron Suitor;Victarion Greyjoy;Tom Codd, Bloodless Tom;M;A;?;;Ironborn;Captain of Lamentation;Tom;Codd;;Bloodless Tom;
@@ -2483,7 +2478,6 @@ The World of Ice and Fire;57;Maegor I;Maester Yandel;Nicknamed The High Lickspit
 The World of Ice and Fire;58;Maegor I;Maester Yandel;Septon Moon;M;H;?;48 AC or after;?;Septon, High Septon (claimant);Moon;;;;
 The World of Ice and Fire;58;Maegor I;Maester Yandel;Ser Joffrey Doggett, the Red Dog of the Hills;M;H;?;48 AC or after;Westermen;Ser, Grand Captain of the Warrior's Sons;Joffrey;Doggett;;the Red Dog of the Hills;
 The World of Ice and Fire;58;Maegor I;Maester Yandel;Lord Daemon Velaryon, Admiral of the royal fleet;M;H;?;48 AC or after;Crownlander;Lord, Admiral;Daemon;Velaryon;;;
-The World of Ice and Fire;58;Maegor I;Maester Yandel;"Lord Rogar Baratheon (both ""Rogar"" and ""Robar"" were used, but it is now confirmed that the final name is Rogar Baratheon)";M;H;?;51 AC or after;Stormlander;Lord, Hand of the King, Lord Protector;Rogar;Baratheon;;;
 The World of Ice and Fire;59;Maegor I;Maester Yandel;Lord Martyn Hightower;M;H;? BC;?;Reachmen;Lord;Martyn;Hightower;;;
 The World of Ice and Fire;59;Maegor I;Maester Yandel;Grand Maester Desmond;M;H;?;44 AC;?;Grand Maester;Desmond;;;;
 The World of Ice and Fire;59;Maegor I;Maester Yandel;Lord Edwell Celtigar;M;H;?;48 AC or after;Crownlander;Lord, Hand of the King;Edwell;Celtigar;;;
